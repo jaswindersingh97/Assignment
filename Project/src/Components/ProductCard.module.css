@@ -1,13 +1,50 @@
 .container{
-    width: 100%;
-    height: 100%;
-    /* background-color: aquamarine; */
-    /* border: 2px,solid,orange; */
+    width: 300px;
     box-sizing: border-box;
     box-shadow: 0px 4px 20px 0px #00000040;
-    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 380px;
+}
+.container:hover{
+    padding: 15px;
+    /* background-color: rgb(199, 220, 242); */
 }
 .top img{
+    box-shadow: 5px #00000040;
+    border-radius: 10px;
     width: 100%;
-    height: 50%;
+}
+.top img:hover{
+    opacity: 0.5;
+}
+.down{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    gap: 10px;
+}
+.Addonbutton{
+    height: 25px;
+    padding: 5px;
+    background-color:black;
+    color:white;
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+}
+.Addonbutton:hover{
+    cursor: pointer;
+}
+.Addonbutton:active{
+    background-color:rgb(75, 73, 73);
+}
+.down svg{
+    width: 18px;
+
 }
