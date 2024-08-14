@@ -1,14 +1,20 @@
 import React from 'react';
 import './App.css';
 import HomePage from './pages/HomePage';
-// import CartPage from './pages/CartPage';
+import NavBar from './Components/NavBar';
+import CartPage from './pages/CartPage';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+
 function App() {
   return (
 <div className='container'>
-  <HomePage/>
-  {/* <CartPage/> */}
+<BrowserRouter>
+  <Routes>
+    <Route path={"/"} element={<HomePage/>}/>
+    <Route path={"/cart"} element={<CartPage/>}/>
+  </Routes>
+</BrowserRouter>
 </div>
-
   )
 }
 

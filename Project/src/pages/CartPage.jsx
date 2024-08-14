@@ -1,9 +1,10 @@
-import React ,{useState,useEffect} from 'react'
+import React ,{useState,useEffect,useContext} from 'react'
 import CartPageGrid from '../Components/Cartpagegrid'
 import NavBar from './../Components/NavBar'
 import styles from './CartPage.module.css'
+import { AppContext } from '../context/AppContext'
 function CartPage() {
-  const [cartProducts, setCartProducts] = useState([]);
+  const {cartProducts, setCartProducts} = useContext(AppContext)
 
   const loadProducts = () => {
     const storedProducts = JSON.parse(localStorage.getItem("cartProducts")) || [];
@@ -17,7 +18,7 @@ function CartPage() {
   return (
     <div className={styles.container}>
     <div className={styles.header}>
-      <NavBar cartProducts={cartProducts}/>
+      <NavBar/>
     </div>
     <div className={styles.body}>
       <div className={styles.left}>

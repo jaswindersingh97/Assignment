@@ -4,11 +4,13 @@ import logo from './../assets/Logo.png';
 import cart from './../assets/cart icon.png'
 import { useContext } from 'react';
 import { AppContext } from '../context/AppContext';
+import { useNavigate } from 'react-router-dom';
 function NavBar() {
+  const navigate =useNavigate();
   const {cartProducts}=useContext(AppContext);
   return (
     <div className={Style.container}>
-    <img src={logo} alt='icon'/>
+    <img src={logo} alt='icon' onClick={()=>navigate("/")}/>
     <div className={Style.SearchBar}>
       <input type='text' placeholder='enter the text to search.'/>
       <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
@@ -18,7 +20,7 @@ function NavBar() {
     {/* <div className={Style.filter}>
         filer
     </div> */}
-    <div className={Style.cart}>
+    <div className={Style.cart} onClick={()=>navigate("/cart")}>
     <span>{cartProducts.length}</span>
     <img src={cart} alt='Cart icon'/>
         
