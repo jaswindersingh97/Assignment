@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const BASE_URL = 'https://Real-Time-Product-Search.proxy-production.allthingsdev.co/v1/search';
-const API_KEY = 'XAI8l0DLvhoK4rkYDvrzQBqaZJEuUXHc4aXh-aXln6bKTn-mDa';
+const API_KEY = 'IG-PtsIf6ojEl0BXvth0aR9kve85K6lJ0oFDyi3ZM3EDMdhs0v';
 
 const fetchProducts = async () => {
     try {
@@ -14,25 +14,20 @@ const fetchProducts = async () => {
             params: {
                 q: 'Nike shoes',
                 country: 'us',
-                language: 'en',
-                limit: 30,
-                sort_by: 'BEST_MATCH',
-                product_condition: 'ANY',
-                min_rating: 'ANY',
-                page: 1,
-                min_price: 100,
-                max_price: 195,
-                free_returns: 'Do not include in request',
-                free_shipping: 'Do not include in request',
-                max_shipping_days: null,
-                on_sale: 'Do not include in request',
-                store_id: null,
-                other_filters: null
+                // language: 'en',
+                limit: 9,
+                // sort_by: 'BEST_MATCH',
+                // product_condition: 'ANY',
+                // min_rating: 'ANY',
+                // page: 1,
+                // min_price: 100,
+                // max_price: 5000,
             },
         });
         return data;
     } catch (error) {
-        console.error(error);
+        console.error('Error fetching products:', error);
+        throw error;
     }
 };
 

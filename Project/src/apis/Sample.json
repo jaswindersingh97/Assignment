@@ -1,190 +1,1390 @@
 {
     "status": "OK",
-    "request_id": "8772c4c3-bf4d-4fd1-be6d-89ba32953892",
-    "data": {
-      "product": {
-        "product_id": "11577822456427762145",
-        "product_title": "Air Jordan 1 Retro High OG 'University Blue'",
-        "product_description": "Introducing the Air Jordan 1 Retro High White University Blue Black, a true icon of style and innovation. Crafted with premium materials, these sneakers deliver ultimate comfort and timeless design. The classic white leather upper is complemented by university blue and black accents, giving a fresh and versatile look. With its high-top profile, cushioned midsole, and durable rubber outsole, this shoe offers exceptional support and traction. Whether on the court or in the streets, the Air Jordan 1 Retro High is a must-have for sneaker enthusiasts and basketball lovers alike. Order now and step up your game in style!",
-        "product_photos": [
-          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTklhlpSAsDKPUR4YUMpPqx7UiEqGohHvFS32AXg5swIF0aBYg8SyK4bf-oP5rpC0izDcVoe2itbpOg3flC0v6VRNKmHhxQmw&usqp=CAY",
-          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIkNGq_oTkG6deZ7RoPBpL9ZxcztshH_arJTHKT8VnVU9NozE&usqp=CAY",
-          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbEQX9xAZJy_vr1xZ4NQ2WwKsA7z29pgldS70v4TRBxw7moxOEtNDc6nD3B_rvGWfDGOjhRaZXwY0bLbSZi2dJYpHF92O_&usqp=CAY",
-          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcStLtN2-0vUE_Sp3aPAr-GEqF6EmNGKCw4WBQVZVIAI8mLX0ubEny2HYvJi_C0t0A48PKLqUgrHhx8ZZrfNFQHroPKUStBqrg&usqp=CAY",
-          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhEvK8fdNcAbGJtOqOsKtoxrWiLLBxMr0loo-XaMNpYbd7-WbVhMADPWmhYpDul_AyI5sxxSabMZJrxDEqUZZs6zETRDs9_A&usqp=CAY",
-          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0BtWtWCcSD8onh4KWyljjP9u5_ilQDAwDA-gWSP1p0_YIkeeh9bNT-96DONi9GrE-lVVA0lH0YzovGaW2ij8Y1hpUwKThBw&usqp=CAY",
-          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRPck-kylBHepl0UFGOTgdvtHssenmHNF6mlASVWQX6B2T3x0m2Sv68uHJVUioiQ0Xl2BySq9p5f8egSoFURljHjjCOuQol&usqp=CAY",
-          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhonUlbfaDPZMAssmTAQzOU1wvAyuzBIm_8POnX3-GzNs998S__MLdks3jZx7vFSpoplMLU4-wlteJ9f2k_TDtweLsnq6q&usqp=CAY",
-          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvcToTQLEDt7Z701m8qqqEIf3Kli0n8DcxqYr7njydxRL5QrEl4Cvo6G1bWx_6y-EwAFvm1mt6x5APLyt7cz3vDAXlLBa5&usqp=CAY",
-          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9Fa6qkTUUAfchTT3mHRc3UNE6ti7EX4MU7rkyfWe-Ut_3V0og8MDwsh6HrK6HL5jdOrR6QUeddHuDClhvJqh7UNAdRJMsBQ&usqp=CAY"
-        ],
-        "product_attributes": {
-          "Department": "Men's",
-          "Size": "11",
-          "Material": "Genuine Leather, Genuine Suede, Nylon, Rubber",
-          "Color": "White",
-          "Closure Style": "Lace-up",
-          "Features": "High-top",
-          "Style": "Casual"
-        },
-        "product_rating": 4.7,
-        "product_page_url": "https://google.com/shopping/product/11577822456427762145?gl=us&hl=en&prds=pid%3A12948468629406921281",
-        "product_offers_page_url": "https://google.com/shopping/product/11577822456427762145/offers?gl=us&hl=en&prds=pid%3A12948468629406921281",
-        "product_specs_page_url": "https://google.com/shopping/product/11577822456427762145/specs?gl=us&hl=en&prds=pid%3A12948468629406921281",
-        "product_reviews_page_url": "https://google.com/shopping/product/11577822456427762145/reviews?gl=us&hl=en&prds=pid%3A12948468629406921281",
-        "product_num_reviews": 3223,
-        "product_num_offers": "10+",
-        "typical_price_range": [
-          "$295",
-          "$365"
-        ],
-        "product_variant_properties": {
-          "Size": "11"
-        },
-        "product_variants": {
-          "Size": {
-            "3": "10655134012602142916",
-            "4": "9035183490788987190",
-            "5": "16215894295357135072",
-            "6": "10511044076758197419",
-            "7": "1415393058623178461",
-            "8": "3225748813107621545",
-            "9": "3323822606388412217",
-            "10": "16715099171776668792",
-            "11": "2772610231154830231",
-            "12": "11327875261832265223",
-            "13": "53286970523556338",
-            "14": "3606928688464037130",
-            "15": "7337590972555676676",
-            "16": "16738635148704101958",
-            "17": "9516858195494649287",
-            "18": "2025899863236638990",
-            "1½": "10805326248568681983",
-            "3½": "18124159650126675252",
-            "4½": "14477567454080385875",
-            "5½": "6396522053652288978",
-            "6½": "1760518956299234938",
-            "7½": "1666739267543232147",
-            "8½": "12421306964154840762",
-            "9½": "11571077301045314482",
-            "10½": "12810480273363561649",
-            "11½": "14036339820002591276",
-            "12½": "2539653170616769757",
-            "13½": "840844362589649975"
-          }
-        },
-        "offer": {
-          "store_name": "StockX",
-          "store_rating": null,
-          "offer_page_url": "https://stockx.com/air-jordan-1-retro-high-white-university-blue-black?country=US&currencyCode=USD&size=11",
-          "store_review_count": 0,
-          "store_reviews_page_url": null,
-          "price": "$288.00",
-          "shipping": "$14.95 delivery",
-          "tax": "+$37.44 est. tax",
-          "on_sale": false,
-          "original_price": null,
-          "product_condition": "NEW",
-          "top_quality_store": false
-        }
-      },
-      "reviews_sample": [
+    "request_id": "af4f357a-c3f4-4209-bbcd-bd32eda344e5",
+    "data": [
         {
-          "review_id": "596472698230412700",
-          "review_title": null,
-          "review_author": "Colton W.",
-          "review_source": "stockx.com",
-          "review_source_url": "https://stockx.com/air-jordan-1-retro-high-white-university-blue-black",
-          "review_text": "My first pair of Jordan 1 Highs! These are very high-quality sneakers. My only real complaint is that the price is very steep. Otherwise, great sneakers that arrived in a timely manner and in pristine condition! The premium(?) leather is very crease-resistant. I don’t really mind creasing - I think of it as a badge of honor because it shows you wear your shoes - but I say that because I’ve worn them six times now and they still look fresh out the box! Plus, the suede is very easy to clean. (I got a drip of salsa on my drip, but a slightly damp paper towel followed up with a dry one cleared it right up and it looks like it never happened!) Definitely my favorite pair of sneakers. 10/10 highly recommend, especially for sneakerheads in training like me. :)",
-          "rating": 5,
-          "review_datetime_utc": "2023-05-10T00:00:00.000Z",
-          "review_language": "en",
-          "photos": [
-            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2WXdOqWwpW2uvvOPgAQ7l9PsXGP3D4i-7RRNEWWW9_p03tVQ&usqp=CAY",
-            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSW1JE8CMAB2hNj4vfILXhlWe9ivYeT0aW3THz1B-8Gk2dRuG33&usqp=CAY",
-            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpYDnlJm0QEM_9uHfDgLn0Bq63FO7IWVaPmU_purqpVPgPIWo&usqp=CAY"
-          ]
+            "product_id": "4645996516944391552",
+            "product_title": "Bulova Surveyor Automatic 96A292 Watch",
+            "product_description": "This new men’s offering from the Bulova Surveyor collection offers modern design and luxurious craftmanship at an exceptional price. The contemporary stainless-steel case delivers a pleasing blend of brushed and polished surfaces and a domed mineral crystal. The remarkable dial is dominated by the display of the skeleton automatic 21-jewel movement, which features a 42-hour power reserve. Surrounding the dial is a blue chapter ring with applied hour indices, which is complemented by angular hands with luminescent fill. The watch is paired with a matching stainless-steel bracelet for a seamless look on the wrist. With a captivating dial and appealing design, this watch is the perfect timepiece for everyday style.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMkoy4sCbobT1VsM3dqEcHbiiU7airBruehA4AGXhKqjnUtgrPuQDBZXo30WKBIXYb2P_SqSah2psRCYJHyyVN1l5W4Msc&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMBqi2KnDzg8Qo1Gpk4iW1SebrvNDnzWTcWVZnaH_m0mLWHhv5YKzzD2EiXaJiOomzk0v76bry4243U-_4ZGDiIsSd6bsM&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJao5d8g6R4tOdM3g0M8wLbiVpXXYecOURwqMunTddgnduXwLsMYxRATK4brtWSuMA_OKmhOjfa65jnzdy9t87dTiRpIz3lQ&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTFDZgtm4MTgivHFCHT6hOXdPu1031yUTjL81nlGOouGjtE2UfLdbvdLWx6B-bLM-OQDfxinFV5gKhjl_VyBRJOxoLUH1l8&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQndhNTtNBKuZIGM-Ft-WWPWubYT8GNxuqpppSCaTJ4bmu4ollXw5SFcfN-E2ARe8cuBKDyR6r8GVUm3cygOVqUHGXjmRjaHw&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSc7f_rmKd1SmS_A8PfpSFtTQOuzlLNvdg44eCZPuRHBBxwpGGwLJojdx8BSinmN_K6Y8y3mkplRpMpHPf_HUXhdnq2AOqr&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6q_nY4MrMnwS7ihIvMFt9tS8EpxSZLZB2ySpI1B6xrfu7I7VhKTa22CkuEjr5TxudZ7k4sv0i26iejWs1Qb3AspSm1SpR&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnZkC3WFfzuh_JagJ3dj7eCT62VBOHRqTnLtv3Vrf88pqjHHVLCvc9v_iy0fBJCzYdvl4aZSOWDXXpSJCvpcnm34KVX3YvTA&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8ULmYjlo7cGM4b4H5xM0nXpueeXmWme9oGz10cUuj4M-_4-JPgAoqowi_wpEDeKlEV_4-M8d1I1MMnLh-16tYNOectUo4yA&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScHr3RqLJ73Fu4V3YE3ybayKkcSIcFk2Pt9Hsbs317PKStdbVSURM8dgETawrAjGWMoLMI7oJO1svrdRWMpnaahxqhc_NcNw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4JzMROrCSHBiWiz9tWfMhRZI99IHAEl5UdE2UqJ3xdt-pz-9FyEoduyqF2ILLCm4kwb9ByTxBIcDier0gKz9fj2nmvjc_&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSXXVWcZT_cGsoyNFijzhvvgXi3ct13H9_xuO7dLFsy2XTkHg4wYBjqSVwofGZWm5-q1MAVFrHPp_0A9J4qJf2qu2z7DuAHQ&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfHJ0isF5WqvvT-oOqUvxJx46i5eQcCVSfbRATP7C_x18FWCHehhpV13hY6_L9KB394CRtlwFGnfTwh1WXeH6UO9k1xZnd&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Mechanical",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant, Scratch-resistant",
+                "Mechanical Movement": "Automatic"
+            },
+            "product_rating": 4.9,
+            "product_page_url": "https://google.com/shopping/product/4645996516944391552?gl=us&hl=en&prds=pid%3A2478520592843719015",
+            "product_offers_page_url": "https://google.com/shopping/product/4645996516944391552/offers?gl=us&hl=en&prds=pid%3A2478520592843719015",
+            "product_specs_page_url": "https://google.com/shopping/product/4645996516944391552/specs?gl=us&hl=en&prds=pid%3A2478520592843719015",
+            "product_reviews_page_url": "https://google.com/shopping/product/4645996516944391552/reviews?gl=us&hl=en&prds=pid%3A2478520592843719015",
+            "product_num_reviews": 20,
+            "product_num_offers": "5",
+            "typical_price_range": [
+                "$419",
+                "$466"
+            ],
+            "offer": {
+                "store_name": "Amazon.com - Seller",
+                "store_rating": null,
+                "offer_page_url": "https://www.amazon.com/Bulova-Stainless-96A292-Silver-blue-Bracelet/dp/B0BS9X86N9?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1D8EFV7RGU06H",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$429.28",
+                "shipping": "Free delivery",
+                "tax": "+$25.76 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "6987956204257152301",
+            "product_title": "Golden Hour Fashion Business Mens Watches with Stainless Steel Waterproof Chronograph Quartz Watch for Men, Auto Date",
+            "product_description": "Movement: Japanese imported quartz analog movement and battery, provide precise time and long-term running. The watch can be used for more than 1 years. Material: The strap is made of stainless steel, comfortable and soft and breathable. Mineral glasses, 304 steel case, Suit for all kinds of occasions. Sports chronograph: Multifunctional sub-dial can work, chronograph, calendar, run seconds. Provide you with multi-function purpose use. 3ATM waterproof: This watch is waterproof 30m, can withstand daily splash or short immersion in water, but not swimming and showering, diving or snorkeling. After sales service: Each product has 1-year after sales service.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdWmts8z-fNYVnRrjrp32nPZWPxqoQ4T5BAv3Wu57vaaIY0Qge8epos-yVj-owsj25gCXQSL3XqffI0zGl7ZOSwQzswzB7Rg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSermvTPpy1w82KOIBq6Zo9nfoGil2SAQkfqUdAzBYxerIHVKGgS6RAIrs7BTsZX5Z_7bv3S6LVy5M-vgWIwfjiD5lcnBOUgQ&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6om5ZswtvggFiYRAdQNk_LLhZsy2Y75Arx3qA6-snmNAWFAwIBlroOR_DRKjBPfU5aIG-NL_R-ayTkltz6NkLdcGLPfYB&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpbSbvFX2vwyx-J9q3g-jQDB4BPoTSF6PuF8seHj4S4RmMoOjFgItCbGhKQJVyCIJ1j7lB3cyHcI3RUc7Gy4H9Pc48bqK5&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTB75nj0KLcUBoaOTo1eHueqnHXwRHItOyXZRicsKsD0HL1xDpmiDvru-v6OIZHiIbgZLp0OXUkenAvNMbJDLhyr0c7VMTS&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmoizTJku2fTzk7eAH-MZYk8yzbO7ClRDdOX2csBRUQ-wv3SDCjyS2N6KgQV-Rqo2sKdWKcP9JmjuVp_ck50kDpD22MRc2&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Chronograph, Water Resistant",
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/6987956204257152301?gl=us&hl=en&prds=pid%3A15374207141013617176",
+            "product_offers_page_url": "https://google.com/shopping/product/6987956204257152301/offers?gl=us&hl=en&prds=pid%3A15374207141013617176",
+            "product_specs_page_url": "https://google.com/shopping/product/6987956204257152301/specs?gl=us&hl=en&prds=pid%3A15374207141013617176",
+            "product_reviews_page_url": "https://google.com/shopping/product/6987956204257152301/reviews?gl=us&hl=en&prds=pid%3A15374207141013617176",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$42.99",
+                "$42.99"
+            ],
+            "offer": {
+                "store_name": "Amazon.com - Seller",
+                "store_rating": null,
+                "offer_page_url": "https://www.amazon.com/GOLDEN-HOUR-Stainless-Waterproof-Chronograph/dp/B09Q8TJKV8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AQFFMVEXNIYHW",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$42.99",
+                "shipping": "Free delivery",
+                "tax": "+$2.58 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "14401636764881973949",
+            "product_title": "Amazfit GTR Mini Smart Watch for Women,14-Day Battery Life, Sports with GPS, 5 Satellite Positioning Systems, Fitness Health Tra, Pink",
+            "product_description": "Introducing the Amazfit GTR Mini – a perfect blend of elegance and technology. This sleek smartwatch features a mesmerizing curved glass display with an anti-fingerprint coating and a bright HD AMOLED screen for easy readability in any lighting. Fashioned with sparkling stainless steel and a color-matched silicone strap, it's super slim and light. Stay notified with Phone Call Notifications and quick SMS replies (for Android with Zepp App 6.10.0 or higher). Enjoy versatile battery life and reliable outdoor positioning. Note, it’s not a medical device. With a variety of vibrant watch faces and a new Portrait option to personalize your style, the Amazfit GTR Mini is designed for those who value both function and fashion.cal institutions if you feel unwell.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTusX6Hc2Pq7lB_rFf50hTIpu33Uz4LZjXqJdcxdNvoCMrgaRUb&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbM5Xqk7CQW5us5X3ycS23fm66b25fubfZzEDGAhTN0JSFBk0SGB7ftoyYiA8PRMt128idWzfK3ZWBeA0x9QcPK4oCSC1J&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAYdkO70NI_bTR_YOKbyTZEDFaF9fMbVZHSARaZSOpDD3edDbl0PzwnSCD1KY2EO0DrJdMKEKP_n63ciLGYClXFOKtZ28i&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToFSyLXc-PlZo6X9erRDHaTH7zkqs44IeYxaAYTaPikq65b-AQ5dcIGo5yQrCTRkXO0za10CiyaLUrtotClE-3h6WjXWuj&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSaDPo6NLy_34WCuKXV8pyj3JwVvUqs6Gxq4oZ-_9VI1YdbA2MALj52JzSvctw974Es3qTLnUnc-WPpUAEtsWtcNg5zLEhNBg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEn5p90Is_sgenkAlcTCOEH73qtWNmPd1O7FGjS9X5bIS-gtRwi3mzaSSC2z2zcm72Z5xFjMn8gfz-MnhfytOc4XGVTXjd&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_q9tefxfaGaJeiBOvYUB96YSX1HRwOH0FnbrfNbFdzbjloYK-TlpfSijrfntKkeMQifmV1IFxTqgG4_mZ5LeVwmJjKC2jlw&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbUBwyp3oqeXDsxgX1riRhBJnPi9ZPZouDGM_JTDXEytQFLcI&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQy3Kfwvu0MaFTBHU4JimnvqvjelPbwC95HVG0JydVofZjTPn9y&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnZE6fOxcmxqnIqyRLYSOKT4dQhgJCZgUgGgSiNd2hJIO3utsQ&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ3-fwHS085ya1in3gQ3eCr1-RrO0ZJeWXceI8zZz_QWl6J2QUecMiG9Z1GL4WXf2rXW8o0mUEtvBT6WtKfQyaDoqwxpUcV&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6iS8EbdQtAI4rBpXEI4pAZMv_yUXOdmIrMgrs_4lcnauKiYvmqwsb-nEybYuPBFKLjXbJkxFua8OIZgAepWyfXxH459V3DA&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSs237HBk3mHwEs3NXEP_Q5bCFyP2n-SfF3_qiKCAmzPgY3e17a&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_JdQxItFOKVxH3UQF6YFAdyro3r1IDSJvdADMYvTxhJ3wckI&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzmAdKg6Ll3gRJiqe0UKc5Q_vyDXjW1cZqjN-RPkG3ri1tAxDA&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Watch Style, With GPS, Water Resistant",
+                "Tracking Type": "Pedometer, Sleep Tracker, Calorie Counter, Stress Level, Blood Oxygen Saturation",
+                "Supported OS": "Android, iOS"
+            },
+            "product_rating": 4.7,
+            "product_page_url": "https://google.com/shopping/product/14401636764881973949?gl=us&hl=en&prds=pid%3A12995315372246802936",
+            "product_offers_page_url": "https://google.com/shopping/product/14401636764881973949/offers?gl=us&hl=en&prds=pid%3A12995315372246802936",
+            "product_specs_page_url": "https://google.com/shopping/product/14401636764881973949/specs?gl=us&hl=en&prds=pid%3A12995315372246802936",
+            "product_reviews_page_url": "https://google.com/shopping/product/14401636764881973949/reviews?gl=us&hl=en&prds=pid%3A12995315372246802936",
+            "product_num_reviews": 302,
+            "product_num_offers": "5",
+            "typical_price_range": [
+                "$89.99",
+                "$119.99"
+            ],
+            "offer": {
+                "store_name": "Amazfit",
+                "store_rating": null,
+                "offer_page_url": "https://us.amazfit.com/products/amazfit-gtr-mini?variant=44238555611388&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooXmCDCbasWuSifAQH-utmz0D7xUmB5l4-tAz_0fnmwtYYo0-HOjHY&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$89.99",
+                "shipping": "Free delivery by Thu, Aug 22",
+                "tax": "+$5.40 est. tax",
+                "on_sale": true,
+                "original_price": "$99.99",
+                "product_condition": "NEW",
+                "top_quality_store": true,
+                "buy_now_url": "https://us.amazfit.com/cart/44238555611388:1?srsltid=AfmBOooXmCDCbasWuSifAQH-utmz0D7xUmB5l4-tAz_0fnmwtYYo0-HOjHY&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "555207785229250979",
+            "product_title": "Smart Watch for Men Fitness Tracker: Military Smart Watches for Men Digital Mens Watches Make/Answer Call Running Waterproof Smartwatch Android",
+            "product_description": "Smartwatch with heart rate monitor watch - Health watches for men use sport optical sensors,allowing running watch to collect health data more accurately,which can monitor heart rate,blood oxygen (Sp02), helping you better understand your health and making a reasonable adjustment to your lifestyle. - Ios android smart watch can monitor your sleep status (deep sleep, shallow sleep, awakening) and provide a comprehensive sleep quality analysis to help become healthier Smart watch with text and call - ios android smart watches for men is equipped with a clear speaker,pedometer watch can directly use mens watch to answer make calls/read messages/play music/store contacts. - You can get notifications of calls, SMS and SNS messages, Whatsapp, text, facebook etc. - Fitness tracker watch for men can support most android and i - OS phone(andriod 5.0 and above i - OS 9.0 and above). Such as compatible with i - Phone, Samsung, HUAWEI,etc Rugged military smart watch for men - Military watch is made from special metal material,military watches for men has undergone rigorous military-grade testing,including extreme temperature,low pressure,and dustproof. - Tactical watch come with two watch bands of different colors. - Smart watch for android phones contains many dials readily available to choose from along. - You can also DIY watch faces with your own photos. - Smart watch for iphone compatible can be any photo,such as your family,pet,et Fitness watches for men & 112 Sport Mode sports watch - Mens smart watch accurate track step,distance,calorie. - Digital watch men support 112 sport mode:running,riding,badminton,hiking etc to give you more detailed insight into whole day activity. - Step tracker watch for men is IPX8 waterproof,you can wear it during outdoor activities, rainy day, washing hand. - Note: This waterproof watch can obtain GPS positioning through your mobile phone and clearly upload your movement path Activity trackers and smartwatches wih multifunction - Our step counter watch has many features like camera control,music playback/control,weather information,alarm,stopwatch,timer,sedentary reminder etc.ios android smartwatch for men equipped with large capacity long battery life and can be used 7-15 day. - Watch screen will light up every time you raise your hand.( Receive/Dial) and message notification can be displayed directly on screen.ios android watch for men help you exercise scientifically",
+            "product_photos": [
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTd0_7J2xpt5d6d-g0EfStleGBEJUeSr9sPahCXkyogRow77YmCd15G66QxVBvnBJVMAZFywuEfc1xvciMK8CPmudMri0t9tQ&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxK8UmvP27EQkXBs34aeEebQgwk7QIaHGyrff1MN5ymzGBbsRPELSWpEUL9U0YdxmGbVFEUPpBOJLI-wWswx-2XHuUh8gl&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdONIMrHnqoJFzvzNVsl_DTc9JOYQmvAIFKJ39G-E9WoGPq6JuOQQzAYryXdiD1o6fMfSxiG2iYLDDNCQArh5nLKkGwZYzsw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4BQqopyoaXsBdmcVNuN0j_wKP9FLF8KlMpPZm9a3jhjeBUsglgI3rVRXmcqzxc1rpCsej3YHOEaetQAlm50EVNctoWqlg1w&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSd6kPfgL7_YgPBUNHrmfOPqZVf2N8m5lG3eDzM9NHHT4JofpXYT0WZ9iKhZpB0XG6ijmh3ry3p3_5SKiluLpT2zdIEKs19&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR7e_Y3YtcFlLG7hoZtegW8OGNwvgI-NV42As0qjSf6YAUQuPfNC17xNMlEmxYD7rXAX4dIrfpNwwMlTeHM3abr0aIXuuSV&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNdV41NflIZfbrrmzPwn3hpAgrYdXPAzkWMRXXbf3JJA_54OYji6xYwVagL6kGDLodf7yHJEd1UQBuZdSskrbAdI4wEcCuRQ&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Smartwatch, Water Resistant, With Alarm, With GPS",
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Connectivity": "Bluetooth",
+                "Tracker": "Activity, Sleep, Calorie"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/555207785229250979?gl=us&hl=en&prds=pid%3A12606418766347944034",
+            "product_offers_page_url": "https://google.com/shopping/product/555207785229250979/offers?gl=us&hl=en&prds=pid%3A12606418766347944034",
+            "product_specs_page_url": "https://google.com/shopping/product/555207785229250979/specs?gl=us&hl=en&prds=pid%3A12606418766347944034",
+            "product_reviews_page_url": "https://google.com/shopping/product/555207785229250979/reviews?gl=us&hl=en&prds=pid%3A12606418766347944034",
+            "product_num_reviews": 0,
+            "product_num_offers": "5",
+            "typical_price_range": [
+                "$57.99",
+                "$60.99"
+            ],
+            "offer": {
+                "store_name": "eBay - bestshopy1",
+                "store_rating": null,
+                "offer_page_url": "https://www.ebay.com/itm/145907045635?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOopzbOdg8NrC5qLkXd2PDaaapH6cZfUbQ7Q8zh0M7ujIZNJ6MkW7pCE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$57.99",
+                "shipping": "Free delivery by Fri, Aug 23",
+                "tax": "+$3.48 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://pay.ebay.com/rgxo?action=create&rypsvc=true&pagename=ryp&item=145907045635&TransactionId=-1&quantity=1&srsltid=AfmBOopzbOdg8NrC5qLkXd2PDaaapH6cZfUbQ7Q8zh0M7ujIZNJ6MkW7pCE&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "8518590685978876488",
+            "product_title": "Amazfit Bip 5 Smart Watch - Soft Black",
+            "product_description": "Amazfit Bip 5 in soft black is designed with a bigger screen and smarter style. When you immerse yourself in the ultra-large display of the Amazfit Bip 5, you'll understand why bigger is better. Brimming with vibrant color, the high-resolution LCD touchscreen makes checking your data as fun as it is informative. Create your own vibe with over 70 editable watch faces and even upload your own photos for a more customizable watch face. This super lightweight 26g smartwatch will feel natural with any outfits and the skin-friendly silicone strap is comfortable to wear all day and night. The Amazfit Bip 5 integrates the power-efficient and intuitive Zepp OS 2.0, which brings an even smoother user experience, longer health monitoring, and a rich ecosystem of downloadable mini apps and games. Thanks to the built-in microphone and speaker, you can dial a number or answer an incoming call on the watch, via Bluetooth connection to your phone. With your own personal Alexa assistant, just raise your wrist and ask the Alexa voice assistant whenever you need to set alarms and timers, check the weather, control your smart home devices, create shopping lists, and more. Bip 5 can even add membership and club card codes from your favorite stores to the watch via the Zepp App. Featuring over 120 sport modes and the ability to auto-detect 7 sports such as outdoor running, treadmill, outdoor and indoor walking, outdoor cycling, rowing machine and elliptical.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVHYOrPYqLiRgEiGgTKFo2WcjSyxZeFwt5sgzrziUIXOU3wJ4nIwNvIGl3yOItC8MssMDcBkt2bPgFbFxsUxUlyx-8UPKi5Q&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSy6qeA4koj0A9MBlW6s2EfXFujqQjgoL6lUDzSGGrJwLVmDM&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMzgqn3LF0ulGjHXfb63PKoP2bGkbY1KbJ__H8uVYONX--wKhg1ZslbAkA6dhX7N0rTTppDu30nuZEZ3UudtY2ilIahF2Lxg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZvLZ3y8h3kqoR3RkMCaBCKDfv5Ye4jINf4ATQAOdu8_7Y5vvqSSrqcV447LRhFWwcjDPqzfHPO-O7LDSJQBr-qg_E4NTGdg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_WM6mOTtxd0Zmw2wGp3MlsOHbrfkwy1rBKRIlBre59b-s7iYrV-KQN7lJBcbzDpxaQu57mCcCGxUEuuQ5kFqAL8ZTEG-FMw&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOYcol35nGtMw2YWZpxUTYWaUX2KYz4XFFn7d2X-mERfXyOp2mW9dv2cKxVv3K2GtGys0KeI_n6bn5cyR65DU-1Ol9ik7C&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdpAxPtFWlhpX3yge1P3L8shrW2q_cUg5bol2N_2DTC6od-pnyQa3rACXMCw3zIiieAA0xr3bAACY3ufgVM1J77SqldAYd&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjujwVAMZVU2_IyptqF5kV9ogAI9jpB8FUxFI6EsEgVZ_bCpSm0R8w4-jNqyqr7_QUTT3IuEgSX7KusberoLGIJKDrQIrC&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLt5pJ_njHH_46HowBgiPS7lP3P6hGd_2D2ksyZ9UrquOaVDl7DOIj5XKcHRQNMPxqeqEqvL3pDDzGf3DUAqUM0fE7uK38Sw&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUhoaEtJfQTC_VjNL07vOcz5Nk8ISRwj5FuGAGFPWWEDnMIhs&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT44ZMyxJZGjBOHFUOgbAcrukgcf0P7cltX0zVzgkUMns6i4-aruFOF_7gDGIdIRCe9Y6wdQGqv49Bd1535qgKDcUDUoetiiw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhVxVk012-F9zNW5AOeNkdENQfODTi65noOEcXPRFMtx_aMhxIHk3g6F3BQOPu1tXkcSA9ixPaZY_3UZ6tUEDZZo7vzJdh0w&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUzoSgmfD_Rm3DBf4VsSOKx-Kw8NDorAF229tczrFuTq3jRtw&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQdPiafbSZFh1uzLVvpwji32xEeVTC0fiL2xYALdjjd-71A8NtRflt2DbasBkfMOdm4mZTTqD45fVOX91OVJydThJ0d9m-d&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTocnFfPtUt9ElUu8s5HfV6EzcRdUDHBi2L5C76y9yx3LseipxkD19AwOhE8hKirsAluf5kSw8uA7a75b0F6LKUGycNQ4T&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Features": "Water Resistant, With Alarm",
+                "Connectivity": "Bluetooth",
+                "Tracker": "Activity, Stress, Sleep, Calorie",
+                "Assistant Support": "Amazon Alexa"
+            },
+            "product_rating": 4.4,
+            "product_page_url": "https://google.com/shopping/product/8518590685978876488?gl=us&hl=en&prds=pid%3A8825887369502734055",
+            "product_offers_page_url": "https://google.com/shopping/product/8518590685978876488/offers?gl=us&hl=en&prds=pid%3A8825887369502734055",
+            "product_specs_page_url": "https://google.com/shopping/product/8518590685978876488/specs?gl=us&hl=en&prds=pid%3A8825887369502734055",
+            "product_reviews_page_url": "https://google.com/shopping/product/8518590685978876488/reviews?gl=us&hl=en&prds=pid%3A8825887369502734055",
+            "product_num_reviews": 251,
+            "product_num_offers": "10+",
+            "typical_price_range": [
+                "$79.99",
+                "$89.99"
+            ],
+            "offer": {
+                "store_name": "Best Buy",
+                "store_rating": null,
+                "offer_page_url": "https://www.bestbuy.com/site/amazfit-bip-5-smartwatch-49mm-polycarbonate-plastic-black/6554400.p?skuId=6554400&ref=NS&loc=101",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$89.99",
+                "shipping": "Free delivery by Wed, Aug 21",
+                "tax": "+$5.40 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "4380181768742404583",
+            "product_title": "EUTOUR Magnetic Watch for Mens Unique Quartz Waist Watch Business Casual Fashion 40mm Waist Watch",
+            "product_description": "Gemini Magnetic Watches are perfect for both men and women, making them ideal gifts for couples on any occasion.Get yours now!",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxWBaCp1Rd73qRSPueEZjgiFVG8Eal7BZEAN115uS63zCUKMPOdGzIKyYQMAOq6Qq5q6X64l0NY2_qEXWBuYLxx1hJmpmSaQ&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWvHgdhf4pnT_4dZxrBxtN5xRmfzUoaq-dvU-oYslpyOPI_G8KycAzBp_-clrTqpEnuWDOgPnW2aVufL3_M6BUkgejPOYIrA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSysl837BKKzdQzBpa3y-1r8FYY5Tgf9rRSfDGN20LbtyrJ2biuY7vO0nPA3lI8lhcXtejHcG7AcHLlC07qYRGrjgqGiNjn1A&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUsjw0v58KyS9NehhxG4dGkK01Op2ZsYFCmFS4S9w8Wr3a38nue6myXiPyDWAkY1RJqtrbU7ZFPs25OtGjbdJql0W7IDrVBg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxIojaQCFdy8dU16B5tFMKu-YnvgaHZLLNfQfR1MxdgeZYFGD0vPJG97iEcbhZhZNP7pgNG6snxRLDbryspMKFlFVKLsVQ&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFhw49eGZ-34GaqkiUWSZzYzinUw9IewCQOll7l_DpvHCuq_fnrXYD62mefbb3udGFyR2RYp_39nxFiFZ6IkribXUHg4Pv4Q&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkwGA9DfMYKNpYXLcXndZY4K4T1U1s2oegmM_WbQbLWPbkbJF9hbuxjs4SCxKWah8vuvNadzdQUmgxmsjC8WZr9wmRMRWHtw&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgmrKgrBBoUpVB3__n7DgKETKdnfNQdZ6tbwiu-stmV7pT17dLG0qpQ0qgh1MrH2LdE97rwY2tHNpHyjcfKcSuk5Y0ehg-mg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTv5ZmRW-C5QrgE-unKSjZCvXAN7aDrOaOL1lOvpre_SG9jiuWIRno0MKckXErwlWOcS8H3BlAazvO4FPq93QU7IiV7B9fYNA&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyZXHb0COn5hrFqYFP3-3aUzs1QcX6-OyvsQEOQTr2RRBImWIIHR1aYblC1Iv-H8RwQxwwdUavutJOs3PeAiIqAwvbxyVR&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYwOVWm_0Gfd6NT1qtgpEG3G6K2NuCqWHx0zr1YkHEywMs5ldCdqgC11BOv_wLWhnf0VFKwIf80sD9xKe2jFLM1CP9lOJw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfEEzDLXMDOY-RvSrbmutY2LLEiblwHwqaecCUMqYzQwEeAFQqleIfUKwk6RuhtD9TyKO8tCYPPCz3_RS66kELLLqCiA2kyQ&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMssYq51jO6-y4hkocfUnDg8WU9Vj7c0WAIEK_Kut2uNJWLeZOmndEq2R17rf9-aYNix8OWWGI-e6mRsSsiWTHJI4es0EUQQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQK_dBjfX8zSj3sLx6Wdq-diWAPlUKh7OvqJhLP95wojF1gts3DrAT32cwKL1vBGzwMW9VaIwLU3ROrZ0De1-qs-RIdQ41bBw&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRS-SwXSJ2mDO5tTEG9aFCddN3LV61v6SRVyOVfXooa5FSSSRgboZV3c2-odvwlPOV6Po2QMVcqWqsvB3KT82d6CaSG2ai0&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Display": "Analog",
+                "Style": "Wrist",
+                "Department": "Unisex",
+                "Watch Movement": "Quartz"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/4380181768742404583?gl=us&hl=en&prds=pid%3A13680877618211447702",
+            "product_offers_page_url": "https://google.com/shopping/product/4380181768742404583/offers?gl=us&hl=en&prds=pid%3A13680877618211447702",
+            "product_specs_page_url": "https://google.com/shopping/product/4380181768742404583/specs?gl=us&hl=en&prds=pid%3A13680877618211447702",
+            "product_reviews_page_url": "https://google.com/shopping/product/4380181768742404583/reviews?gl=us&hl=en&prds=pid%3A13680877618211447702",
+            "product_num_reviews": 0,
+            "product_num_offers": "2",
+            "typical_price_range": [
+                "$71.09",
+                "$97.00"
+            ],
+            "offer": {
+                "store_name": "Eutour",
+                "store_rating": null,
+                "offer_page_url": "https://www.eutour.com/products/gemini-series-eutour-magnetic-unisex-watch-e052?variant=44153158336711&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooBrjAsCjE0eqg7nr5re8fMVB83urO4956PLFiESyE2ckVjyDcTh4A&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$97.00",
+                "shipping": "Free delivery by Fri, Aug 30",
+                "tax": "+$5.82 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://eutour.com/cart/44153158336711:1?srsltid=AfmBOooBrjAsCjE0eqg7nr5re8fMVB83urO4956PLFiESyE2ckVjyDcTh4A&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "17449326600794385778",
+            "product_title": "Jacob & Co. Bugatti Chiron Tourbillon (Polished Titanium)",
+            "product_description": "The Bugatti Chiron Tourbillon showcases Jacob & Co.'s extreme luxury, mechanical performance and craft with an unprecedented high complication movement.",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKegnxwL8oNVni66HJVwNaT6Arx7BiXBldCvZYr2pvZFqCo6WQBGKij_aplhOqLNEgv74CbFKHPVLr1dkYBGrlcExEweOp&usqp=CAE"
+            ],
+            "product_attributes": null,
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/17449326600794385778?gl=us&hl=en&prds=pid%3A8714250923059820297",
+            "product_offers_page_url": "https://google.com/shopping/product/17449326600794385778/offers?gl=us&hl=en&prds=pid%3A8714250923059820297",
+            "product_specs_page_url": "https://google.com/shopping/product/17449326600794385778/specs?gl=us&hl=en&prds=pid%3A8714250923059820297",
+            "product_reviews_page_url": "https://google.com/shopping/product/17449326600794385778/reviews?gl=us&hl=en&prds=pid%3A8714250923059820297",
+            "product_num_reviews": 0,
+            "product_num_offers": "2",
+            "typical_price_range": [
+                "$310,000.00",
+                "$310,000.00"
+            ],
+            "offer": {
+                "store_name": "Jacob & Co.",
+                "store_rating": null,
+                "offer_page_url": "https://jacobandco.com/timepieces/bugatti-chiron-tourbillon/polished-titanium?srsltid=AfmBOoqumDmoMY0Cf1Gpw5veFqixzJgOVxbFzYCPm-hASXnSSof1xZ9Z0E8",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$310,000.00",
+                "shipping": "Free delivery by Wed, Aug 21",
+                "tax": "+$18,600.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "14028577320954803118",
+            "product_title": "Samsung Galaxy Watch6 40mm Bluetooth - Graphite",
+            "product_description": "The Samsung Galaxy Watch6 40mm Graphite BT SM-R930NZKAXAA is a stylish and advanced smartwatch that combines functionality with a sleek design. With its compact 40mm watch case width it is perfect for both men and women. Stay connected on the go with Bluetooth and wireless LAN capabilities allowing you to easily sync your watch with your smartphone and access notifications calls and messages right from your wrist. The Galaxy Watch6 is not just a timepiece but a powerful companion that helps you stay organized and motivated throughout the day. Track your fitness goals monitor your heart rate and measure your sleep patterns to optimize your health and well-being. With its durable and water-resistant design you can wear it during workouts or even while swimming. Experience the convenience of Samsung's intuitive interface allowing you to navigate through apps and features effortlessly. Customize your watch face to match your style and choose from a wide range of apps and widgets to personalize your experience. The Galaxy Watch6 also offers a long-lasting battery life ensuring that it will keep up with your busy lifestyle. Whether you're a fitness enthusiast a tech-savvy individual or someone who values style and functionality the Samsung Galaxy Watch6 is the perfect companion for you. Stay connected stay motivated and stay stylish with the Galaxy Watch6. Upgrade your wristwear today and experience the future of smartwatches with Samsung.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQekH3dwoP_c4kIggEe5of3O3p3CQhpcIGgZe_OVOoVXy9OY6xdP3a6X3-g8wHJ2AEXrmbO6riovd7Neh8iaYQqabuHk4mC&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjJbwp9eBqM-7ITCE3-SvtZoBFq3QZK8zNDeXfm-BdFn33tQ7XloojFA3eEHJHueuEIDfew82J62VW9B35NgDEsOzNUVrKaA&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRna2FWpfOLwxQGyqzJ1QSrCkGGVjnoQKjC7ecX-UC4LxS3MBYOtfNGbJxZnB_2HwMYZQGzVF7mncecIgBGUIp5cDKpYW6v&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRq6C95TCAzH8xh781oKJT0Q9xTJPEf-TBEZaEENBwAzM0RWjiM7MskjNe6c3C_999VIM4fGCuOeA1idCAnN0Df33nLPDJJmQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRd1XlmWiNH8WARToGZl8kZ4X1s7VUx60Mr4e4WwoAgtrIlGMDPu-Qonv03CYwF0Q30SSWr87a9YGdmB1FJOCPvfsVCI10o&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2Ki_8D2T3ttn5JubP3DD8sJybeSqb0LbwxnzLxaOm9asGSHFRqwVGgf-OU9EXAw39IuzoNQ40Y2dHjx3vvWdB-g5BcOAr&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3WNjmnvwWg7YWw8pFRSOG4MaeM0ma7XwSxo5_9pIplxmsc9RD0HFUmGkvSYtszea6jPeDpSO5DtbvQK5_Fz7RQKOxSgys&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtZYDO0JBwQH6ew_6tW8kL_1LNK81QyUPm6tUyba4JNLyFGPc3MxVb8hReo3NDB6_86D8MnNuOpqcfcLI5rXIamh-Q80aPMQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuzFRKq1kiwtRFctCxGbsR-0naHcXAEIf2LvVhZgu6QGZLa_Ei6yWJsdyMu2Y0471uLZzo7x4-Sf9Xjko5cWi8KKIip1zv&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvzimJJuMQX1lqi9BXB4oA50MhzdXqVPsgiACC-a6FQFR3itcryA2c1l5q5ntSuSk5y0cDiNSB95A9Dp-V_vVIiv4qrXqnDw&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREaAv-WkSCgSu3oZwclITwAGGoZXMOmdUQZ1hYhxfwd_bAQvyP4qPmHmH04oAMzK4gr8TV-7YnAbUyw2JocF1rjqQSd1_O&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrZhXB1lQ__ovdak2Evvw1Q8t61Ne6wt46LbBUC2Ch0VYW608&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRi_DNAE9Xtuayv56mFfbJ5hpUa0d3I1guzeA44TtV9rcuT-VFrCoyTo1HXUb2f6DN-8Clly4pvLOV_YaJAu1AKOTktBC2YEA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNzM72--6ZsfLUDk5A1MUtf_U4cccp2tS6WMku6DcPvczT6t6oS5pQgwQ21B2aE5C0gnY75FSKwsLtHnvXjj2oQWkPFr26&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8sOm-Tq3E0x6QyePdUEcuKewGlimlwgMIf_G1Q1H8GyZ1GTFzmIeSleU0Gjju9IJ9ec_y9xLrw2WwJOUhUtPFYYJVi5CiKw&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Features": "Water Resistant, Interchangeable Strap",
+                "Department": "Unisex",
+                "Connectivity": "Bluetooth, Wi-Fi, Cellular",
+                "Tracker": "Activity, Sleep"
+            },
+            "product_rating": 4.4,
+            "product_page_url": "https://google.com/shopping/product/14028577320954803118?gl=us&hl=en&prds=pid%3A4199226199665366596",
+            "product_offers_page_url": "https://google.com/shopping/product/14028577320954803118/offers?gl=us&hl=en&prds=pid%3A4199226199665366596",
+            "product_specs_page_url": "https://google.com/shopping/product/14028577320954803118/specs?gl=us&hl=en&prds=pid%3A4199226199665366596",
+            "product_reviews_page_url": "https://google.com/shopping/product/14028577320954803118/reviews?gl=us&hl=en&prds=pid%3A4199226199665366596",
+            "product_num_reviews": 13584,
+            "product_num_offers": "10+",
+            "typical_price_range": [
+                "$165",
+                "$240"
+            ],
+            "offer": {
+                "store_name": "Micro Center",
+                "store_rating": null,
+                "offer_page_url": "https://www.microcenter.com/product/669402/Galaxy_Watch6_40mm_Bluetooth_-_Graphite",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$199.99",
+                "shipping": "$5.99 delivery est. by Aug 19",
+                "tax": "+$12.36 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "15007741452330576901",
+            "product_title": "Casio Sports MDV106-1A - Wristwatch analog stainless steel , black, white",
+            "product_description": "Complete your wardrobe with this Casio Men's Stainless Steel Dive-Style Watch. It offers an innovative combination of style and practicality that is designed for the everyday man. This Casio men's watch features a uni-directional bezel that helps to ensure accurate reading without interference from water pressure. The date window makes it easier to keep track of the day. This stainless steel watch also makes use of luminous hands that allow for clear, concise reading in low-light environments. It is complete with a black resin strap as well as a screw-lock case back. Water resistant up to 200m and crafted with a simple and sporty design, it complements nearly any outfit.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlnFUJPvEYE9wMgHUlvFQEAiK9JbQIseWGzjBWLSM-i6UBqoyj-t-njJQSyW53thjNcyEp1XgVMxV-6drXZ--UCAdkbdM3GA&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9PTD2KDzWKtllsAmUfwL3IVPFCFxiiUpUAlIEsNxl6CIa18HcIkvNoW_-YGEolIrus-YX3UvT42nF1FDfTStfndKMyOtEBw&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Features": "Water Resistant, Scratch-resistant",
+                "Connectivity": "Bluetooth"
+            },
+            "product_rating": 4.8,
+            "product_page_url": "https://google.com/shopping/product/15007741452330576901?gl=us&hl=en&prds=pid%3A9515833428334908888",
+            "product_offers_page_url": "https://google.com/shopping/product/15007741452330576901/offers?gl=us&hl=en&prds=pid%3A9515833428334908888",
+            "product_specs_page_url": "https://google.com/shopping/product/15007741452330576901/specs?gl=us&hl=en&prds=pid%3A9515833428334908888",
+            "product_reviews_page_url": "https://google.com/shopping/product/15007741452330576901/reviews?gl=us&hl=en&prds=pid%3A9515833428334908888",
+            "product_num_reviews": 1617,
+            "product_num_offers": "10+",
+            "typical_price_range": [
+                "$49.92",
+                "$55.61"
+            ],
+            "offer": {
+                "store_name": "Walmart",
+                "store_rating": null,
+                "offer_page_url": "https://www.walmart.com/ip/Casio-Men-s-Black-Dive-Style-Sport-Watch-MDV106-1AV/21672924?wmlspartner=wlpa&selectedSellerId=0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$49.92",
+                "shipping": "Free delivery",
+                "tax": "+$3.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": true,
+                "buy_now_url": "https://affil.walmart.com/cart/reviewOrder?items=21672924_1&wmlspartner=google&veh=seo&adid=ncapichk2google0000000001&cn=nc&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "778006944174119822",
+            "product_title": "Zeitholz Wooden Watches for Women, Wooden Watch, Gifts, Analog Watch, Artistic, New Stolpen Collection 36mm, 100% Natural Wood with Japanese Quartz",
+            "product_description": "A THOUGHTFUL GIFT: Our Stolpen wood watch makes for a perfect gift for women. Whether its a christmas gift for women, a birthday gift for mom or a wedding anniversary gift for wife, they will be a sure-fire hit with any woman. Gift box included. THE PERFECT FIT: With its easily adjustable wooden strap, our woman wood watch can accommodate any wrist size for a comfortable, tailored fit, making sure your Zeitholz watch fits like a glove. LASTING QUALITY: German watch, high-quality and attention to detail. Each wooden watch is handcrafted and is powered by a Japanese quartz movement. A STATEMENT OF ELEGANCE: Our wrist watch for women Stolpen olive wood is the perfect watch for any occasion. It is made of natural olive wood, which in combination with its blue dial gives the watch a very fresh and contrasting look ENVIRONMENTAL CERTIFICATION: Our Stolpen wood watch is made from FSC certified olive wood, without the use of any paint or chemicals. All of our production methods have been tailored to minimize our impact on the environment.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTi7h8RklgssveGyvb2o0LMOhazuok7atfjwHCSWvr3hVHhdKOIzpGxQ-60SjFLdXYyER2G8yYjl3BEPKjdQ7sen-vl5uVtmg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSDN7B4lAvcvtYY7u18i3atva8nd8hPNEuIKd_5fw9q-6d5QFyXSeXHpwO2JKUgt0q0PWoOOy3fn6CbJkhl6NU2XmSZDNiuw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4L7x849tFd-4cUF-agw7cREgNmIh6hF3VU6KnOyOuhrun9W37_ZzaPIg-8ZQ2hefk03IZ_-KLOB-7oWBOMlA5oCj47W9lZQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwHgO6CDFrsbxDLr9xBBbMCjR2J5lzh9p7e6z5Nv6tWPfvMAwDErSDFdSVjAAYgS4ZBdNTgKVu4DYghzTyN8EMqxWDeT3DvQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWdzGDxjNuLGtez0vCoXVOAocULoGV3daNWa9xEGjf4gP-WMZjxhJeCSOUjkvdpLanQz8XcTJlnBbvaQz8E4tOJaOjVebL&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmYwj4AQKhfPvC_PHx5tytF7udfX6kIK0McXdiyPUzr-ere-WCGJDwP0n2ZmrDOHcmTgtpAaLhGmlrEGWV5Sk7ADtTk_cRqQ&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCLk34u39dg7C94oNyzdbb7JRvjwwPykBQtwCrG4yNSEB_ySy8rkN0v1FwF2raq6duOs7Td98GXZLxcfwW0bWZ0ULqIaDi&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTpq6EzdDTdFrmibLt6_p0Dctg76HWIyWkyLoprW09uNtTU40Zin-Mu2v528fpRTnuZfi5w7WtCsHgWEzMx-XAaDxvbjd4&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_SVVSjOBnaZFQAEeTpNRMyUV_3P33fBPfjJe8JRGgKLT9ExkKifX_NxJxSPrSrHEL7AEg4Pl8mROSH7ZV9Ylz_G-3RuCwnQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhEAU8LrfZQKmB1ZezQjg5LQcgMdw9LlRi8ouWlF8x8Q7ANBT05QNEpN6GDTfQQ0ZKT4hvuI-ddgPU5LNAxFJEg-viOhzl&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRz9VfQClpFAk1ZK6krRhms9UO-7gy1EbSU8a0vaAaBfvBArnXzzGnVuzWt122FMO1R4d0ur0XmqHrOT8FPT7Strg9E0QbA&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3orvQLUqbRxnhleO_GXOMS8abdXdNVhQurx0cHfKk8Vh9dZiQG9puIYRGogQvEDsnnoLkgXXwi-aIjZ15b6BxwHChsFfSUw&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSr1buTQVZULjmWJuF-GSiHahMG5MZOq7ec_IacCXVCca13fbc5yzx03q9xYcL5N6A3UEhsxYNaJe5ttXEp9IT3LsgHgGF-Ew&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant",
+                "Watch Movement": "Quartz"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/778006944174119822?gl=us&hl=en&prds=pid%3A18351781057315681044",
+            "product_offers_page_url": "https://google.com/shopping/product/778006944174119822/offers?gl=us&hl=en&prds=pid%3A18351781057315681044",
+            "product_specs_page_url": "https://google.com/shopping/product/778006944174119822/specs?gl=us&hl=en&prds=pid%3A18351781057315681044",
+            "product_reviews_page_url": "https://google.com/shopping/product/778006944174119822/reviews?gl=us&hl=en&prds=pid%3A18351781057315681044",
+            "product_num_reviews": 0,
+            "product_num_offers": "3",
+            "typical_price_range": [
+                "$99",
+                "$119"
+            ],
+            "offer": {
+                "store_name": "bigamart.com",
+                "store_rating": null,
+                "offer_page_url": "https://bigamart.com/product/zeitholz-woman-wood-watch-analog-watch-new-stolpen-collection-36mm-100-natural-wood-with-japanese-quartz-movement?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$212.99",
+                "shipping": "$15.00 delivery by Tue, Aug 27",
+                "tax": "+$0.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "http://bigamart.com/checkout/?add-to-cart=8951790&quantity=1&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "15251066550858910216",
+            "product_title": "Gute Mens Watches, Mechanical Skeleton Automatic Self-Winding Steampunk Watch for Men, Casual Clock Brown Leather Wrist Watch",
+            "product_description": "【LUXURY STEAMPUNK STYLE】Fashion Classic Designs Steampunk Bling Dress Skeleton Watches for Men Women, Affordable Business Casual Dress Watch with Numeral Time Mark & Light Blue Dream Glass, Gives You an Extraordinary Luxurious Experience. 【AUTOMATIC MOVEMENT Men's Luminous Watch】 Luxury Illuminated Mechanical Watch Clearly Visible at Night or Under Low Light; Auto Self-winding Movement with Analog Display, No Need Any Battery; Golden Dial Men's Watch Case Thickness 16mm (0.63 Inches) With Diameter 42.5mm (1.67 Inches). 【CASUAL BROWN LEATHER BAND FITS ALL】Soft leather strap doesn't rub your wrist, you will fell very comfortbale for wearing. It can suit for teenage and mature male, it can also fit for women. You can use it on business & casual daily, a dress wristwatch can be took in work/ travel/ festival... An ideal gift on birthday/ Christmas/ father’s day/ New year/ Best man's gifts. 【INSTRUCTIONS】Manually winding the mainspring by turning the crown between 20-25 turns, the watch will get enough power.【 Easily spice up a normal outfit and add style and attitude into life. not just a watch! br 2. A wonderful gift for boy friend and friends and family. time spent with you just gets better and better every year!",
+            "product_photos": [
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRfJDmOtEDpigyb8YigKUcqL0Bqq1mBpOIdy73AYcn4yL1IcbtL8SMlWhO7-_ICtdmtGIyidCihSO4ywUGv-SjpR-b1WKblfA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ5PKDft-L84fK-htmDgjLJwPRexEXvfOy02faJF5Et8NihgRkIeQ7QoNcjzzW__EDBy9o_tewmmPWZJHqz2vrbXxttKyCK&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBBjFvCa4c70M1pJs6cbh-a2xdEn-UbLnYpR5WLx2-wlB3GZm9j-Kfr5H4a-xA8AlhPbGVFz5Vqkt227wF42gVKhdPj8bnXg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT66tNUwKYKOR6BOpo7KKuriWcFfbWFMGp5JjTVZLXCTrmO3a4B2knw6RsAnjTFMYxRvHLTxCS6NcYO12XimKxeVTpR_uqsvw&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTNbAuYDwTaJmnioqvXflESyx9HIvxMJXRvn5XCi0aG0YGHiUxKykq7i5riwyJ9pYDQ2khdVXUv42O2_Yfl1LRYSYIje9nd&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmLJ58ugbeaHeXO-ftEQnqzbxzlqw90CoCfZY6IN7aIJWx3_mQ6N4DV5pzTXWEo-fp2-Gzb8OfCiEhELf9JQEJHdIewZGddg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMS13XzCiKdwgcQEMKsZVNKIDUFg2aBdxBSCSw-1xWtAXL6OcIuFmaTUHEyPyWFqwldb5np6_ivarVbMc1GWhi-qglLzyc7g&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmKm1dsnhR0w8tD8dPRSx-5NdIrtOgUvfY-OUqQPOxFcr-owJX-nBGmrKK2j0vfjvoiC9uadOoxaR8GxvEs3Lj3F7MNUsu&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Mechanical",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Mechanical Movement": "Automatic"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/15251066550858910216?gl=us&hl=en&prds=pid%3A9102278845280324868",
+            "product_offers_page_url": "https://google.com/shopping/product/15251066550858910216/offers?gl=us&hl=en&prds=pid%3A9102278845280324868",
+            "product_specs_page_url": "https://google.com/shopping/product/15251066550858910216/specs?gl=us&hl=en&prds=pid%3A9102278845280324868",
+            "product_reviews_page_url": "https://google.com/shopping/product/15251066550858910216/reviews?gl=us&hl=en&prds=pid%3A9102278845280324868",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$26.99",
+                "$26.99"
+            ],
+            "offer": {
+                "store_name": "Amazon.com - Seller",
+                "store_rating": null,
+                "offer_page_url": "https://www.amazon.com/GLEIM-Skeleton-Automatic-Mechanical-Leather/dp/B007Q02C5I?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2UJMLDOYY6GO3",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$26.99",
+                "shipping": "$7.10 delivery",
+                "tax": "+$2.05 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "6583341259633598454",
+            "product_title": "Theorema Watches St. Petersburg - GM-121-8 | Gold Watch with Gold Stainless Steel Band | Men's Skeleton Watches - Handmade German Watch",
+            "product_description": "Hand-assembled in Pforzheim, Germany. It is skeletonized and fully engraved, gold plated 5 microns. The finish is great, and so are the results of the electronic timegrapher. Yes, this watch is precise! Tracking is submitted within 24-48 hours after payment.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8ajlU2vhm9jQ4zvNlqTdMJ0yMp5nkkD67Oh28RmG5gLqXrWp48UIrxfK7tR44xrjpQGptEjDJ80IhQMOkeiTJ1PD7XSb2&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8dunxp3N1oy23LJL9dKJgfqGFHhw6-eZukseNh9s7TBe6taCA2Ahp_ygswzc8f3rcH4_gdna4QSpuPENfxvYeuOvZP-JH&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfToMd77kif6IChIywJnoWjSaycVfOwJGhDseiQJAcs5pD4hJDbPIJSp5VD03o3gL5f5if-U-lKovgvibBu6SopOQx3ivt&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuFLoeHxhuRP0Dzp82JGb_WUn2hRsvb7dVi-3rj0byYhGczsuRcPhH6QeKGftubEsnjv-n_axTBWLOCjPWWzbFhtGPzuUS&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTottG5WpSIzY3yrKeypSmnz7kdZUREQquTQ6fKXcS6WIiprTHqTp-G28Y9vwJhz1K27P4hNhNAi2nWCoFBQYkZ-QlhsDEK3g&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/6583341259633598454?gl=us&hl=en&prds=pid%3A12498327424740368814",
+            "product_offers_page_url": "https://google.com/shopping/product/6583341259633598454/offers?gl=us&hl=en&prds=pid%3A12498327424740368814",
+            "product_specs_page_url": "https://google.com/shopping/product/6583341259633598454/specs?gl=us&hl=en&prds=pid%3A12498327424740368814",
+            "product_reviews_page_url": "https://google.com/shopping/product/6583341259633598454/reviews?gl=us&hl=en&prds=pid%3A12498327424740368814",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$386.10",
+                "$429.00"
+            ],
+            "offer": {
+                "store_name": "Tufina Watches",
+                "store_rating": null,
+                "offer_page_url": "https://tufinawatches.com/products/st-petersburg-theorema-gm-121-8-handmade-german-watch?variant=43135752536227&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorOzNyYBGht4tSTUa6t7MCutQTAuCvZsHO-0aVP2iVzEz1W-ilPBkU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$429.00",
+                "shipping": "$14.95 delivery by Fri, Aug 23",
+                "tax": "+$25.74 est. tax",
+                "on_sale": true,
+                "original_price": "$1,269.00",
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "coupon_code": "Memorial10",
+                "coupon_discount_percent": "10",
+                "buy_now_url": "https://tufinawatches.com/cart/43135752536227:1?srsltid=AfmBOorOzNyYBGht4tSTUa6t7MCutQTAuCvZsHO-0aVP2iVzEz1W-ilPBkU&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "14490798480451345757",
+            "product_title": "Zeitholz Wood Watches for Men, Wooden Watch, Gifts, Chronograph Watch, Analog, Calendar. New Bergen 42mm, 100% Natural Wood with Japanese Quartz",
+            "product_description": "A THOUGHTFUL GIFT: Our Bergen wood watch makes for a perfect gift for men. Whether it’s a dad birthday gift or an anniversary gift for him, they will be a sure-fire hit with any man. Gift box included. THE PERFECT FIT: With its easily adjustable wooden strap, our men's wood watch can accommodate any wrist size for a comfortable, tailored fit, making sure your Zeitholz watch fits like a glove. ️ LASTING QUALITY: German watch, high-quality and attention to detail. Each wooden watch is handcrafted and is powered by a Japanese quartz movement. A STATEMENT OF ELEGANCE: Our wrist watch Bergen sandalwood is a Chronograph watch in a 42mm case. The refined rose gold indexes and hands, along with new pushers and metal crown, add a touch of elegance to the sporty feel of the watch. ENVIRONMENTAL CERTIFICATION: Our Bergen wood watch is made from FSC certified sandalwood, without the use of any paint or chemicals. All of our production methods have been tailored to minimize our impact on the environment. If you’re like us, then you also love the look of wood grain watches but don’t like the feel of fake wood or cheap bamboo. The Zeitholz Wood Grain Watches for Men & Women are 100% made of natural wood! Click ADD TO CART now to experience that natural wood feeling today. Wooden watches are great gifts for any occasion. What wrist size does it fit with? Any size! This is especially important if you’re buying it as a gift when you aren’t sure about the receiver’s wrist size. Easily adjust the wooden watch size by using the included link adjustment tool, then adding or removing links until it’s perfect. You can easily slip the watch on & off by unbuckling the security strap. Adjusting time is simple: Find the round knob on the side of the watch, pull it out, turn it to the desired time, then push it back in. Click Add to Cart now to experience that natural wood feeling today.",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJ6217iFOTyPL5zNVwVocCO14Og6TcCLTmParcWReOVyO9tjtu1ub8X0dXZ-jIuP7w5Kkw9Py4UpDjEfwbwSaT-7PysgF0&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRx4oLsc1vi57hccPLrxFu_o9S2WyKOomICqQMHqXWuYzcNINHPQ6yktKrIC4dbGMIPh1ctVR0BZ7Nm9JjK2Z7HVUBgMrqi&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSAZcwV9bI3Ed3rvCZU3IdnlZYuQX-GpG1UJp72nz9tUs5mfVuZkYPq9nWO7p4gVsbYi0I8z-Rz0TBcvtlE4fnmEnhwduTxQ&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKUi0FKyCDgnV40gCbAO6057C4JdLPmyGX1rInnFpOy-FC1vAR1X9ElO9eSQFJCagai8K0pg5ls_2EfqZVQiBIFk4umeSW&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyuYfPdNOt1q_H8wKC4o8SfNdmdgsu3Ay0rv90gdicaE48fvcn3L_Kdboboh6J1v8OcSAiW-wdYfHxnZOnQXnU6UnzI2ar&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvXAaiPBCHCz-7E-uibS8vzPrRb8p4xd0SRih9vI-R30_VKnBaJa_g3IuGTJWNCub7GQMIDDautpBoIujphKBYkmMvsKpK6A&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSLr1bqcpNbmLZ67R6cFbuot8IhzB4ClkOKLBlOVxbbVuhDt54ki_BJV5ROSiwUPa6T17OfkBnMnCx_JsAK39Jw6Mt0Pa0&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSZq2WpDefp7duwHX4x1fLMh5obU_3tQMRW-X_MoeL5oVJ7L9oxIqbKJq4fGwgRKvs24YlqEiVo8Dt8XOLn7asrESsqikhf&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTNahZR07YedxRGDd68cBeHmxduCL-06-BNBAGFA1uQgovcGMicXNNJ2BZ7tH1HdxxGObsFzMA6TFDXL6lDU7leF_WogUWB&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Chronograph, Water Resistant",
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/14490798480451345757?gl=us&hl=en&prds=pid%3A18253430319055511336",
+            "product_offers_page_url": "https://google.com/shopping/product/14490798480451345757/offers?gl=us&hl=en&prds=pid%3A18253430319055511336",
+            "product_specs_page_url": "https://google.com/shopping/product/14490798480451345757/specs?gl=us&hl=en&prds=pid%3A18253430319055511336",
+            "product_reviews_page_url": "https://google.com/shopping/product/14490798480451345757/reviews?gl=us&hl=en&prds=pid%3A18253430319055511336",
+            "product_num_reviews": 0,
+            "product_num_offers": "4",
+            "typical_price_range": [
+                "$149",
+                "$162"
+            ],
+            "offer": {
+                "store_name": "Zeitholz Watches",
+                "store_rating": null,
+                "offer_page_url": "https://zeitholzwatches.com/products/bergen-black-wooden-watch/?srsltid=AfmBOopOVOxKN7gsIsxnLAo6D9ANhG-9yfG7qSF7tRv3XvZbmUzC8MatvNA",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$163.18",
+                "shipping": "Free delivery by Fri, Aug 30",
+                "tax": "+$0.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "8175041987980302496",
+            "product_title": "OnePlus Watch 2R Forest Green",
+            "product_description": "Wear OS Smartwatch with Modern Design and Vintage Flair. OnePlus Watch 2R features up to 100 Hours Battery Life, Enhanced Fitness Tracking, Dual Frequency GPS, 1.43” AMOLED Display, and flagship Snapdragon W5 and BES 2700 chipsets.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQb1vICWTjb0TuySxtIBBOf3GOHDaAztsrNz0uibTZYsohNqyT3JRX3AoynembdBltRxtxeKXY5__2Lov5lCXr5HkIwM2Q4&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWEW8qMHoHKIKnlQpn4soRveOmaiI--rMpQfU0jkmc-_OBWJbayn9NMA_0NhBgFBdqqEIlqk8KiSFqc8QQwMe4XcGUBka5ig&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNccDV0XD1b6iMUhAp3vrvcAoqzYNq9zXJJ6I5FlqMMr3xjLiFNYS9MWta9At1xGJIpnGTpWZZKEexkNoDFQjNm3f4bTsw0g&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9twCIPOhSYXicbbQO-jyg44oCcqo3QlL00H5HsQ-mlVD89h3Tq1VK8y0xPtoqvCloWLbnnCZ3rc864Yc2LeSatC7yQHeL3g&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Display": "Digital",
+                "Features": "With GPS",
+                "Style": "Wrist",
+                "Department": "Unisex"
+            },
+            "product_rating": 5,
+            "product_page_url": "https://google.com/shopping/product/8175041987980302496?gl=us&hl=en&prds=pid%3A1809899305822619581",
+            "product_offers_page_url": "https://google.com/shopping/product/8175041987980302496/offers?gl=us&hl=en&prds=pid%3A1809899305822619581",
+            "product_specs_page_url": "https://google.com/shopping/product/8175041987980302496/specs?gl=us&hl=en&prds=pid%3A1809899305822619581",
+            "product_reviews_page_url": "https://google.com/shopping/product/8175041987980302496/reviews?gl=us&hl=en&prds=pid%3A1809899305822619581",
+            "product_num_reviews": 4,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$199.99",
+                "$229.99"
+            ],
+            "offer": {
+                "store_name": "OnePlus Official Store",
+                "store_rating": null,
+                "offer_page_url": "https://www.oneplus.com/us/buy-oneplus-watch-2r?sku=5491100166",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$229.99",
+                "shipping": "Free delivery est. by Aug 21",
+                "tax": "+$23.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": true
+            }
+        },
+        {
+            "product_id": "15189602501850715137",
+            "product_title": "Casio Men's Large Dial Analog Sport Watch with Khaki Nylon Strap",
+            "product_description": "Available with cloth Velcro bands and military inspired colorways. MRW210HB has a 53.1 mm face, large indexes and day/date display for easy reading. Couple this with a bi-directional rotating bezel and 100 meter water resistance and additional 24-hour index and youve got a timepiece that's simple-to-use, a great value and durable. Khaki cloth Velcro band analog with khaki face.",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZZ9Td4b_YmXLAp_ibM_mxBWpNxf4nVJJFF5gGwfeivfCGTM35MJxv9sULghxYXc02Qb4AkaPwfa4u23lIQJKtFZa3-1P_&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUClmo7cq9VYGNMpeaLSyJlj-f4KJHYkHfPX08ktFKkC_oE_QGMd0hhilTv9fvWXJ_f9dlA3lG2AZC9YN836aL5AQRhqyH&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUFyPq0yMz_DklWRTldNVupUuP8I9jcGe8SuBVTiC0l-0r-bRUwpDDJbw_ZKLr5fbfKCQo0N1Q6cYEd6HZrkoCJfr4iqXA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZtorJi5rK_h-KkflXR0ubIOZew_D5e_aJ7YpUfB02e7sN6oBOrmvIIF_3vIg2KElNTzs42J3qsf_tGt808pGnD4jLzROH&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQepPIB-iTLx4uWSWUofz8KXkCEnsIC8eJmvenKnw5gMoco9GrBttZUTeIfCqS3U7MfhCExhYhkyyXPlG9R6DP_WkyUvW8OWw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQq28UiW_Ak1fpH9uHprg5ECUO5jzkHF_soGRfmlG9A8T_M3vMe9USqC59xj1w0y_OSLpUxSZkj1eamojCDBqetEe3ndofKrg&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant, Scratch-resistant"
+            },
+            "product_rating": 4.2,
+            "product_page_url": "https://google.com/shopping/product/15189602501850715137?gl=us&hl=en&prds=pid%3A17574191552343215470",
+            "product_offers_page_url": "https://google.com/shopping/product/15189602501850715137/offers?gl=us&hl=en&prds=pid%3A17574191552343215470",
+            "product_specs_page_url": "https://google.com/shopping/product/15189602501850715137/specs?gl=us&hl=en&prds=pid%3A17574191552343215470",
+            "product_reviews_page_url": "https://google.com/shopping/product/15189602501850715137/reviews?gl=us&hl=en&prds=pid%3A17574191552343215470",
+            "product_num_reviews": 56,
+            "product_num_offers": "10+",
+            "typical_price_range": [
+                "$25",
+                "$35"
+            ],
+            "offer": {
+                "store_name": "JCPenney",
+                "store_rating": null,
+                "offer_page_url": "https://www.jcpenney.com/p/casio-mens-green-strap-watch-mrw210hb-5bv/ppr5008245694?pTmplType=regular&country=US&currency=USD&selectedSKUId=05052820018&selectedLotId=0505282&fromBag=true&utm_medium=cse&utm_source=google&utm_campaign=Strap%20Watches&utm_content=05052820018&cid=cse%7Cgoogle%7CMens%7CStrap%20Watches_05052820018",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$30.92",
+                "shipping": "$8.95 delivery by Mon, Aug 26",
+                "tax": "+$2.39 est. tax",
+                "on_sale": true,
+                "original_price": "$42.95",
+                "product_condition": "NEW",
+                "top_quality_store": true
+            }
+        },
+        {
+            "product_id": "4452398055893006008",
+            "product_title": "Watches International 551171, Discreet Curren Classic Metal, Metal",
+            "product_description": "Discreet, achieve a layer of style & look sharp with this dressy watch that's a trend in the going. The minimalist design is the perfect canvas for your aesthetic expression & an attractive piece of wrist wear that would work with either formal or casual wear.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTV2v5hm47yGIjn2mRhX4bXh3Mk69ioT7knGtNC-uLL7wIdCWUAfcxfwkSIXsl5BqReYmP2FzjNbcdzYrT6vd03Z7IEcana&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfMIa-fbJdtOrBKb17Cg8Gfq-LtvAJ7xmLt0coNkFmy5oU0K5-JtoMkLk6hwOCcpiRWGpEht916tBejR9vfQp2-OQcSSohKg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSaPVdBsW-zmaO0qPXuOcXM_Z5juiefPIC4yscmYmvWZtX46lrWVruJsQbSrizQPHGQdH-7Ct2QifJJZOKTQ6XCUrLG_P--&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant",
+                "Watch Movement": "Quartz"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/4452398055893006008?gl=us&hl=en&prds=pid%3A9246288489637946563",
+            "product_offers_page_url": "https://google.com/shopping/product/4452398055893006008/offers?gl=us&hl=en&prds=pid%3A9246288489637946563",
+            "product_specs_page_url": "https://google.com/shopping/product/4452398055893006008/specs?gl=us&hl=en&prds=pid%3A9246288489637946563",
+            "product_reviews_page_url": "https://google.com/shopping/product/4452398055893006008/reviews?gl=us&hl=en&prds=pid%3A9246288489637946563",
+            "product_num_reviews": 0,
+            "product_num_offers": "2",
+            "typical_price_range": [
+                "$10",
+                "$24"
+            ],
+            "offer": {
+                "store_name": "Astro Jewelry",
+                "store_rating": null,
+                "offer_page_url": "https://www.astrojewelry.com/product/5613002/discreet-curren-classic-metal/?origin=google_product_ads",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$13.61",
+                "shipping": "$10.63 delivery by Fri, Aug 23",
+                "tax": "+$0.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "15479003317906700257",
+            "product_title": "Peugeot Men's Stainless Bedford Bracelet Watch",
+            "product_description": "Peugeot watches have been redefining fashion since 1957. At its inception, Peugeot was a manufacturer of luxury, handcrafted, gold timepieces. After a successful twenty five year run in the luxury category, rising gold prices and market changes dictated a new direction. This strategy led to the formation of a new marketplace which later became known as fashion watches. Gentlemanly all gold-tone watch with some unique dial features. Gold-tone, presidential style bracelet has an adjustable fold over clasp. The coin edge bezel frames the dial with gold-tone hands and Roman numerals. There is a day window at 12 o' clock and a date window at 3 o' clock. Watch features reliable Japanese quartz movement. Celebrate time telling with this grand, all gold-tone watch.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6c6khd_kCNA0YTtB0IBXYmvOxZy0o5fCb4RZDpPYSeb3g2zUonPMYHmKR1_xmZAV_pho2qsDhxGpht0NR7NfURehA9HP1&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzuVbaD2LYPbLWwU4FyCIFV9mxxC6L56KV7PEEzcWOk_I7bKJ2J_07QgfRqI2mFTIqauLMWRcb7qkDnAJZnZ46VeaudALX4g&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQzMuEmBRE_n52JNurjZFzu4dZlNXffgowUzwVyj3jnd29Ivv1_HH1gOBKrZnMuJrOVUYJ0dTZJiAomjGquKbOn8CA3QypyWQ&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBlD4DdN8-bvV0nuRE4_M2RvLxpHimYNilK64Cj8_hwtlTbQDE2ATWqPYbnT4fvKvhn67xCgHZ2DndBjtXMzBSGest_SKX&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZ5uu8LoDpf0WNBY9GHm-yBSwl4ri3gOGwG_6l4neCMVwQQoJRQG1q9L3AWtlJen1iK6qtHl5JQvzTYjhkgtuGtcE_-YR4mg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSL6PR1fXIC1bEI6IwkR_ThFzY2XYcqwocdP1WSoDiXROoOUbck_RXQVRm5rn_2c3Tgoh-fBYSheYQ0s5KK5-tJ-mJij_0l&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5o1gsOp-iJXpG0AxnJju6ZL7zD4vqGZxqtj_OPGnTW6YhOJFhVjKleMQvyLiGdUitsZ_WSbdZNxK0hznPTLloYNBp8Pr7Fw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhzyfPBFcHqYVWM1AH2nomEkLiR1J40l8DQ5fKchtCGO5Q04GCyC0ezdURIHVCTQu-cy7HLR9--JVHjCXbsaqkd5R5Hyzd&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR772dS3Kp2SXng77ESshoRsh4CbMtuNEs78Rk_sq-YJPT5MznKxMV0Wzhp9Vi2DjV701Ehz79lEV6mKKiKwtKKGe2OPZFO&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSl7oiVfaepzfWzPcQlACfg5XjX7PrZUlU2N3UJRIiCNhzmuBm6RBL4TmbVHPEMdTjis1ka_NHn0ClPurVRqKPqQIQ5FEkp&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant"
+            },
+            "product_rating": 3,
+            "product_page_url": "https://google.com/shopping/product/15479003317906700257?gl=us&hl=en&prds=pid%3A13273113919095903504",
+            "product_offers_page_url": "https://google.com/shopping/product/15479003317906700257/offers?gl=us&hl=en&prds=pid%3A13273113919095903504",
+            "product_specs_page_url": "https://google.com/shopping/product/15479003317906700257/specs?gl=us&hl=en&prds=pid%3A13273113919095903504",
+            "product_reviews_page_url": "https://google.com/shopping/product/15479003317906700257/reviews?gl=us&hl=en&prds=pid%3A13273113919095903504",
+            "product_num_reviews": 1,
+            "product_num_offers": "4",
+            "typical_price_range": [
+                "$76.19",
+                "$87.99"
+            ],
+            "offer": {
+                "store_name": "Peugeot Watches",
+                "store_rating": null,
+                "offer_page_url": "https://www.peugeotwatches.com/products/men-40mm-white-face-fluted-bezel-gold-bracelet-watch?currency=USD&variant=39497022603324&utm_medium=cpc&utm_source=google&utm_campaign=Google+Shopping&stkn=dc6725d5cc83&srsltid=AfmBOoryBanOY9lH_luK2IFNsSH9KZTYeawRAnQF7MzFsO-PSiTQJWCZfns&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$87.50",
+                "shipping": "Free delivery by Thu, Aug 22",
+                "tax": "+$5.25 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://www.peugeotwatches.com/cart/39497022603324:1?srsltid=AfmBOoryBanOY9lH_luK2IFNsSH9KZTYeawRAnQF7MzFsO-PSiTQJWCZfns&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "12318961369367629288",
+            "product_title": "Avaner Mens Wrist Watch Steampunk Retro Watch",
+            "product_description": "【Skeleton Watch】Design with classic hollow-out dial that brings out the mechanical vision and makes it look like a automatic watch. 【Precise Time Keeping】High quality Quartz Movement provides precise and accurate time keeping. 【Luminous Hands】Bright round dial with luminous hands and rhinestone hour markers lets you easily track the time with one quick glance even in the dark. Features: Decorative 3 eyes (for decorative purposes only); Calendar window; Scratch-resistant glass; Stainless steel band. 【Comfortable And Durable】Stainless steel band watch, comfortable and durable, great for daily wearing and the cold feeling perfect for summer (waterproof for daily use only). 【Ideal Choice】This classic stainless steel watch can blend into a variety of occasions, such as formal or casual. This unique design watch will be perfect for your love, families and friends for birthday, Valentine's Day or Christmas.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9U_YVz00X2QDe76eoXZVzkEvKIWSK6P9vk_ZQJJuDRZJGu9I3VTMho8ECeiMwBmp4PKcdeBuOigmXDoCdWHyMuIu5Ly6V&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyN9Zsq3R6byjzHIxGFJB5IinHcg2Q1FCvf6KQd7wJ6SF_D88xD5y9WV3jw6sbPDdFgL3NrQI4CEQfaIx4JQm7W48gGomE&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLS0pClAv-YeMuCZaNJgA_Fopac6I067Fr2C-vjlqHmWs6zQ7e_OtgZ79JFyIZze4l22YQq2TT7qdUHlxPKfiKw4KxnfdK&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWEYyLwRNdREgck_2cemk-zMa7HwYSy5KFBRJtk-367axjTKudNn_W-I1HK_NvSuq2b_YmEg0lTfCPQq1LnVv3dG4Qrdqd&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREF5Gp750Tnt1bnbkxJESHjadcDNl2QAeqdwGY7jV2InWmA0FqonwYdaTUIN_tbspLhm09P4NQdYtsXbx0R9-Qvw9xnT7-&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQyK8T7ycif1GEGgJoMF_KgK6eYr_aSE4D9mJzLj5JySHJN7MRxbB5pUvHIThFbkr1AG497PVFol3WivJfaxz98zBDfRA3c&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS68C-xzbFwDRcKp640ETCy3waEpAI-iMUpPb2GQ-MetRB8jX9MkRcaEhANo2gDNQ4u3Jb0B4CAhD97o0-entuk3CjPJstV5w&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQaYOVQKv68Bh7X9YOspGxd8POCnB8TDM8reKFQ34tJ_VGKp0i3K51PDgWbDCU7QrwZEcpHhzEkpWPjwBqB_mL9mK9lpN3z&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtqDSG57BmTmEs1sVEtZfddZyEcX8vPj1NimG1cFUVl9I-xU2Z1esIC9OZFRKM6iUw9X7X8dUiKkRZdkz8i93gzS18-Gfb&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxBKgfVZhIN3j0JWaTFLjF_bh8Gyv7W6-_8iMool5-C-wnLiS_pV0_DkmeeBZKUIUAcnINP4TpGEHf__IfJz8SgtBfcxYp&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHiiTpZkaKgscQCbyNZ9ob79jVckOw2Yk34u-FT78qD7F84HE8v27YdRTycSnFeS965rhZ6cn5gOLUmQQXRLVH4AwaPIMV&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRANvbu76aB1U9VW03TYEqQi13vq08RYd3goHxoyU9UGDPD-DBijPyI-vcp-CXrk06QQkhrunN8Cbuhq0lcQGWpoAMlEOte4Q&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant, Scratch-resistant"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/12318961369367629288?gl=us&hl=en&prds=pid%3A4351374998249081134",
+            "product_offers_page_url": "https://google.com/shopping/product/12318961369367629288/offers?gl=us&hl=en&prds=pid%3A4351374998249081134",
+            "product_specs_page_url": "https://google.com/shopping/product/12318961369367629288/specs?gl=us&hl=en&prds=pid%3A4351374998249081134",
+            "product_reviews_page_url": "https://google.com/shopping/product/12318961369367629288/reviews?gl=us&hl=en&prds=pid%3A4351374998249081134",
+            "product_num_reviews": 0,
+            "product_num_offers": "2",
+            "typical_price_range": [
+                "$15.99",
+                "$15.99"
+            ],
+            "offer": {
+                "store_name": "eBay - bbbeni",
+                "store_rating": null,
+                "offer_page_url": "https://www.ebay.com/itm/365045971286?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOoocfbo0bdLI2a5sw1g3M_I4B4T1MO-9iprqNexl-a9zB-RdZlhX-tU&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$23.60",
+                "shipping": "Free delivery by Mon, Aug 26",
+                "tax": "+$1.42 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://pay.ebay.com/rgxo?action=create&rypsvc=true&pagename=ryp&item=365045971286&TransactionId=-1&quantity=1&srsltid=AfmBOoocfbo0bdLI2a5sw1g3M_I4B4T1MO-9iprqNexl-a9zB-RdZlhX-tU&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "14970685949915774505",
+            "product_title": "Invicta Reserve Swiss Ronda Z60 Caliber Men's Watch - 53.7mm, Pink (42617)",
+            "product_description": "Be part of Invicta history with this superb open box timepiece. Our experts take great care in inspecting and servicing all open box pieces in order to offer a precise, long-lasting watch for you to enjoy. This eye-catching Invicta watch from the Reserve collection is powered by a precise Quartz movement, as well as a steel case. Its face is decorated by a pink, metal dial, and protected by a sturdy Flame Fusion Crystal. A pink, band completes this timepiece that can resist water for up to 1000 m. The exceptional taste and distinguished palette of the connoisseur will discover timeless pleasure within the Invicta Reserve collection. Specially developed for those in the know, Reserve is a reinvention of the superb to create the ultimate in horological finery. These timepieces represent a pinnacle in superiority for the discerning aficionado.From Invicta's founding more than a century ago to the present day, innovation and excellence have been at the core of each era and collection throughout the brand's history. Invicta hand inspects each watch to ensure it is in perfect working condition. Scratches, abrasion, or light wear and tear may exist. Watches may not come with any extra accessories. *In some instances, the colors in the images may slightly differ from the real product.",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyEoAShyFjg9WnzFB8MnilwRyL7iGd3SvQPvf0R6EHezUxf65C63PKYe-8w84t6aHYEaezKYNkYMiCkqLpoSPiyRiBCJQb&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Chronograph, Water Resistant",
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/14970685949915774505?gl=us&hl=en&prds=pid%3A14940862120290147085",
+            "product_offers_page_url": "https://google.com/shopping/product/14970685949915774505/offers?gl=us&hl=en&prds=pid%3A14940862120290147085",
+            "product_specs_page_url": "https://google.com/shopping/product/14970685949915774505/specs?gl=us&hl=en&prds=pid%3A14940862120290147085",
+            "product_reviews_page_url": "https://google.com/shopping/product/14970685949915774505/reviews?gl=us&hl=en&prds=pid%3A14940862120290147085",
+            "product_num_reviews": 0,
+            "product_num_offers": "4",
+            "typical_price_range": [
+                "$125.91",
+                "$214.99"
+            ],
+            "offer": {
+                "store_name": "Invicta Stores",
+                "store_rating": null,
+                "offer_page_url": "https://invictastores.com/invicta-reserve-men-s-watch-53-7mm-pink-42617?srsltid=AfmBOoqpllBZl-1rylBfyDdM-Ih377gTYiAOjrIFEm7ZW9aSN-enWTxPHqk",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$139.90",
+                "shipping": "Delivery by Wed, Aug 21",
+                "tax": "+$8.99 est. tax",
+                "on_sale": true,
+                "original_price": "$479.00",
+                "product_condition": "NEW",
+                "top_quality_store": true,
+                "coupon_code": "Google10",
+                "coupon_discount_percent": "10"
+            }
+        },
+        {
+            "product_id": "17496027524930555292",
+            "product_title": "IOWODO Smart Watch for Men Women - 1.85''HD Screen with Make and Answer Calls, with Ai Voice Assistant, SpO2/Heart Rate/Sleep Monitor, 100+ Sports",
+            "product_description": "【1.85'' HD Color Touch Screen and Personalized Style】The fitness smart watch is equipped with a 1.85'' high-resolution HD touch screen, bringing you an unprecedented use experience. This smart watch has more than 100 unique watch faces to choose from. You can also customize your favorite pictures as watch faces on ‘’Da Fit‘’ APP, or customize your favorite wallpapers, giving you a unique experience every time you check the time. 【Making/Receiving Calls and Voice Assistant】The smart watch has a built-in speaker and microphone, and after connecting to your phone via Bluetooth, you can activate the AI voice assistant to issue commands. For example, make calls, control music, check the weather, set alarms and timers, etc. When your phone receives a call or message (such as WhatsApp, Facebook, Instagram, etc.), the smartwatch issues a real-time notification, making you never miss anything and making your life more convenient and better. 【More Than 100 Sports Modes】This fitness watch provides more than 100 sports modes: running, basketball, yoga, cycling, walking, climbing, badminton, tennis, etc. You can also view your complete workout data in the ‘’Da Fit‘’ APP. The watch automatically records your daily steps/calories/exercise distance, etc. As well as a timer, stopwatch, and other functions to help you exercise. You can also set exercise goals (Like almost all non-GPS smartwatches, this watch counts your steps based on your arm movements. So if you move your arms like normal while running, the watch will be more accurate to count your steps.)-NOTE: Not for the sauna, hot water, swimming, or diving. 【24/7 Health Monitoring】The fitness pedometer watch is equipped with a motion sensor that can automatically monitor dynamic heart rate in real-time 24/7, It can also track personal sleep and detect blood oxygen saturation and stress to adjust the personal physical condition. Offer a detailed sleep quality analysis report (light sleep/deep sleep/awake stage) through the App, helping you adjust your lifestyle and healthier. This smartwatch also helps women track their menstrual cycles.[ NOTE: This watch can't be used as a medical diagnostic tool.] 【More Features, More Fun】The men women's smart watches also have other useful daily functions, such as smart notifications, music control, camera control, casual games, weather forecast, sedentary reminder, alarm clock, stopwatch, timer, etc., and wait for you to dig. The step counter watch is compatible with Most Android 6.0 and iOS 9.0 or above smartphones. Built-in large capacity battery - 300mAh, up to 5 days of use and approximately 30 days of standby with just 2 hours of charging. 【Note】1 Since the watch is equipped with speakers and microphones, it is not waterproof. The smart watch fully meets daily dustproof needs such as hand washing and sweating, but it is not recommended that you take the watch to swim or dive.",
+            "product_photos": [
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgN6KPQK31Mg5H3j9X7b0h0YyrUFIVTNqoPHA3jQZhWJ_iAlBGP7nBxvpULeyz0qJbd8svtFmE8WHvMm62E_IVTe3csTwDNg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdu22LrJlYPT2WNKkmvMwAy5Rxk2ZjsacxT21HQQvRbZHZPg4zz90VQfNVRIYA2TzZpWzTS826eArOFkgyv50rMi6uAlp3og&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBynPaP8Y5mG1UwoKrnEkXbWUKNnJhdZwaRadG6RumyKYU3HZ0LjrKAGM7U4x2oMJksL_vtzA9GYrs3TU7RDzobyTAnAOr&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS1Wt89KeGDKXI1of4Z2Foal3TBhO9Qq1A1Nc8TokftuolBjZaeZMSstuTitC8wU7s6VeVSa7Uh05_1IrWxwLJdAEf_QXD1&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqPF0lABgvdu8awDlOgXu0kOEsWcU6GB9oqsfTh9dwpxp7mfxwEn10wCDxr2w-D2WlYOFKjvlYyRcuBrQuAF38zM4eFUapqg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcY5Hz8YK8BuzmTNImZn9KK8tOxvJXfZKlSFOqOv08eFNFwELeQSJem-owcmjdFK42PPggyFUhP4FCObjG4e2HlC9s-LOW&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR95wz_FI5sbyJAd7c2y0RVGY6AALE9HNwLIuUGZoq-nVGThYXzqiM7FHgrmhlaN8idrdkTXmx8rgmMyVeXG270jskeu0CsLg&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Features": "Water Resistant, With Alarm",
+                "Department": "Unisex",
+                "Connectivity": "Bluetooth",
+                "Tracker": "Activity, Stress, Sleep, Calorie"
+            },
+            "product_rating": 4.3,
+            "product_page_url": "https://google.com/shopping/product/17496027524930555292?gl=us&hl=en&prds=pid%3A14885744335373461016",
+            "product_offers_page_url": "https://google.com/shopping/product/17496027524930555292/offers?gl=us&hl=en&prds=pid%3A14885744335373461016",
+            "product_specs_page_url": "https://google.com/shopping/product/17496027524930555292/specs?gl=us&hl=en&prds=pid%3A14885744335373461016",
+            "product_reviews_page_url": "https://google.com/shopping/product/17496027524930555292/reviews?gl=us&hl=en&prds=pid%3A14885744335373461016",
+            "product_num_reviews": 6,
+            "product_num_offers": "5+",
+            "typical_price_range": [
+                "$25",
+                "$33"
+            ],
+            "offer": {
+                "store_name": "Poshmark",
+                "store_rating": null,
+                "offer_page_url": "https://poshmark.com/listing/IOWODO-Smart-Watch-for-Men-Women--185HD-Screen---Smartwatch-65b17103fe2504862af4dad5?srsltid=AfmBOoqe8KAV1OvcKFTFkKnhbYsL_Ab-4EzoAmqkiXVqz_ZdUOyMitsUwgE&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$70.00",
+                "shipping": "$7.97 delivery by Wed, Aug 21",
+                "tax": "+$4.95 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://poshmark.com/listing/65b17103fe2504862af4dad5/guest_buy?ul_off=true&srsltid=AfmBOoqe8KAV1OvcKFTFkKnhbYsL_Ab-4EzoAmqkiXVqz_ZdUOyMitsUwgE&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51#utm_source=gdm_unpaid_clp"
+            }
+        },
+        {
+            "product_id": "5799215214831449004",
+            "product_title": "Golden Hour Ultra-Thin Minimalist Sports Waterproof Digital Watches Men with Wide-Angle Display Rubber Strap Wrist Watch for Men Women",
+            "product_description": "[DIGITAL MULTIFUNCTION WATCHES]: Imported EL backlight screen, the time can be clearly displayed in the backlight. The digital watch also has 12/24H, stopwatch, alarm, Date and Day. [ULTRA-THIN METAL STEEL CASE]: Minimalist supper thin watch case thickness(only 8mm), Adjustable 250mm soft rubber strap fits up to 9.8-inch wrist circumference, 43mm alloy steel case with hardlex glass, easy to read. [5ATM WATERPROOF ]: 164Ft / 50M waterproof, In general,suitable for swimming in shallow water and cold showering, but keep away from hot water and steam, not suitable for long time underwater activities such as diving. [SPORTS COLLECTIONS]: Suitable for men, especially to those who like doing sports, multi-functions make it perfect for both outdoor and indoor sports, such as running, climbing and so on. [After-Service]: A perfect gifts for Valentine's Day, anniversary, business, birthday, Thanksgiving Day, Father's Day Christmas etc. Product description /b br Our brand-new design, round case meets the next generation of fashion sports, which makes our watch with casual fashion style for your daily wearing. br Smooth rubber strap craftwork,won't scratch your wrist or cloth, goes great with any outfit and any occasion. br You can adjust the length of bracelet longest to 9.8 inch according to your own scale as well. br Moreover, choosing our watches is not just for a watch, which means a better quality and after services as well. br br Product features /b br **MOVEMENT: Fashion casual minimalist design with black case digital sports watches .",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWIjMfAz5K297jcmyZB0xpqj9G2p1ynodawbFwBuyDjNmZYCH3DaFFXAnxTjHT5_W_vkM64f_SFJ1atfsK4NDMd3nfXJNp&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6JhAgwbSeWPcGxrZVm2QAamHFsQJbi7c_dEM_gQi1kRyFLraPRbyhDcF42eXT_SSo56j_a3ZUdqVdiMrBDNORLkZF7-Wx8w&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWWKEJKyt0yz1U5a4M2kikoyeLuAD8D2QZ6EsiytVacWBtzAYbylnK-xPQGeVA8YeiIvtnfSr7roEBNKdzsek7A2mGChCCaw&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNuZ37gXcDX-EFkxA0SIAaePO7H5x370V1j5kb-2WBKLcuJ8nWKCOaHzjEr-NnoIKLtB71ORMyLH-QrW1NL9kxUqiw0WMi9g&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVuWY34L1gn4ISF_eSXynnVesQpMo7ZpK1nz9MG48nymHRJooTrlacBnwYxV7ISCiv3LvRnKXO7xtOzjHwUzycKysfK0LVQg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpTT06YDJC-zfdQ5OMHJW5993IBQzBqjv7KXfTaa2HeWgooIPofOSFehRB-zFkcZ3Rl7iA9GW2t8NWIz71R_uMttyvvo3F&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4FfiARR1Sl3mM2U9OhGzfKQs31OuUMUgNJdFzJBOtXAOJs3Zk7PbTWidDUhh4DLCsEf1OMCA_wxkeQux-6kdEVaSYVQpC&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Display": "Digital",
+                "Style": "Wrist",
+                "Features": "Water Resistant, With Alarm",
+                "Department": "Unisex"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/5799215214831449004?gl=us&hl=en&prds=pid%3A15147681765255363739",
+            "product_offers_page_url": "https://google.com/shopping/product/5799215214831449004/offers?gl=us&hl=en&prds=pid%3A15147681765255363739",
+            "product_specs_page_url": "https://google.com/shopping/product/5799215214831449004/specs?gl=us&hl=en&prds=pid%3A15147681765255363739",
+            "product_reviews_page_url": "https://google.com/shopping/product/5799215214831449004/reviews?gl=us&hl=en&prds=pid%3A15147681765255363739",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$23.99",
+                "$23.99"
+            ],
+            "offer": {
+                "store_name": "Amazon.com - Seller",
+                "store_rating": null,
+                "offer_page_url": "https://www.amazon.com/GOLDEN-HOUR-Ultra-Thin-Minimalist-Waterproof/dp/B0B4W2FFRJ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AQFFMVEXNIYHW",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$23.99",
+                "shipping": "$5.99 delivery",
+                "tax": "+$1.80 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "14517957433933681821",
+            "product_title": "Ciga Design Mechanical Watch Series U Blue Planet Titanium Alloy",
+            "product_description": "Description This page is for 8th anniversary deposit only. How to grab anniversary discount Step 1: Pay $30 deposit for the product you want. Step 2: Complete the balance payment on our 8th anniversary date. How much is the balance payment Balance payment shown below (US Dollars): Blue Planet Steel: $669.3 Blue Planet Titanium: $809.3 Blue Planet EarthDay: $1089.3 How much could you save with the anniversary discount You save (US Dollars): Blue Planet Steel: $299.7 Blue Planet Titanium: $359.7 Blue Planet EarthDay: $479.7",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRO51ML42iT4SSks3JfDA2Phc91ziXk6NTg4sE9WsCHM7TuarmjOrRsz5ibJRKgXRSCV-_-Yd2VeMNbaJQoww3dP7iB1Ah&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToWryXQZFaUMebOBgjNJJwlRn0dc_awYSSMfFyj2DckQxRw6sT2imc3ARpFAZA0JBQwFDdgltO5kVbBO0L7LtH2zL-b4eKCg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQa7yfrdW1nWPuBgHRffjIJoBClb1W4tXmnGR70sDKojhrsMFfmld_OkvvxO07irDKvZfwXy3CEP6O9xFU2eVV3J7taNqk32g&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUWU1K8bko_TYaCss3I7j954uZcF9CPHg_xeg0ambLUFccD4ZLFR84RQ8AJnN3oIey4wNHKsuI_VqUULJIdY7m0UA7rdn2&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWxB5T3cHr9l37BIjjfyRflRiz66dv4kWycf1vzhEGPQq2PG8oESeLOCKxDJ5nseJz4qzUgT_sj7E2-W1l47gynCDsoA7a&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnUrvNTJvoE-tu0gT6INi40TnL76m8TYqKZ96HQJBfWpoXtq4KJ9xpLZsosgyVsgXFasfl96zpGrzDRZUAI23I0V4UamlcgA&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJMKc_G7A8mGfUlaPlAQmCf5g3PED1CnXOr2BO264tWiZA6CaZY1CeFJ1hA1Px6x8XerwYwXYUmP69hCxBMzM5UOSY7NNE&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5N_3Ln_MhfKERuX9dhgMAP2Q6IBTBzOJ700vfSSnKu-P2Ktq8Rj_11N20gZjlzwY3dhpK1-IGOE6N78YwojWJVjdD9wJQ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFDcmcD2kVsiV8TIMwu-8Gd2z5-_4bnZRF6CryseQoxDnr2pyKhBh_5WBq1Z_iZPqXq-oSO7Ps-U9UVfoPmr4rR8zWI7YI&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrjh9tIq6bWna4f_0iieYT5yatpEvnBRW6PDM5Mlq8rqBpT5ogZBSiVnYbx6gfYt0HPS7iZ7nbYh2km5MSkBgn4HOD7G3T2g&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSuPyEIUnPMPpQv4QMc_h4bRBNP-EV8FrxUwxjLr59yykS47M5zS5nqcHeT1rpBaMVRmAGu6KY3GpaUMRHgdhZ7SZjiVf1&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCjBOkq3EjGLYt6Yw4hMsHDtVpeBGel5iX0M0HiV8pU0F2BRxS6p8CwleAmpU-MKo2KKjkQFQM65VBiUBga3FUK97fEQ5B&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTln1kMxII3Kn2njlKul2uuxMH969z8tkjl0WQkP1ESBC-XzedUs9YpJicIXPKUQ6c7QxobgeS9hjVmG87toso04GF8YYn2&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Display": "Analog",
+                "Style": "Wrist",
+                "Department": "Unisex",
+                "Watch Movement": "Mechanical"
+            },
+            "product_rating": 5,
+            "product_page_url": "https://google.com/shopping/product/14517957433933681821?gl=us&hl=en&prds=pid%3A12362146887775247124",
+            "product_offers_page_url": "https://google.com/shopping/product/14517957433933681821/offers?gl=us&hl=en&prds=pid%3A12362146887775247124",
+            "product_specs_page_url": "https://google.com/shopping/product/14517957433933681821/specs?gl=us&hl=en&prds=pid%3A12362146887775247124",
+            "product_reviews_page_url": "https://google.com/shopping/product/14517957433933681821/reviews?gl=us&hl=en&prds=pid%3A12362146887775247124",
+            "product_num_reviews": 29,
+            "product_num_offers": null,
+            "typical_price_range": null,
+            "offer": {
+                "store_name": "CIGA Design Official Store",
+                "store_rating": null,
+                "offer_page_url": "https://cigadesign.com/products/balance-payment-for-series-u-blue-planet?currency=USD&variant=45805183205598&utm_source=google&utm_medium=cpc&utm_campaign=Google+Shopping&stkn=c7b715fd4a1c&srsltid=AfmBOoreCK7krDJbi2oq2GA1DDXYcjxkaB9cEccQbVnAVBvISEL1RSfF0es&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$809.30",
+                "shipping": "Free delivery by Fri, Aug 30",
+                "tax": "+$48.56 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://cigadesign.com/cart/45805183205598:1?srsltid=AfmBOoreCK7krDJbi2oq2GA1DDXYcjxkaB9cEccQbVnAVBvISEL1RSfF0es&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "17734230581498786887",
+            "product_title": "Tissot PRX Watch 40mm - Blue",
+            "product_description": "Tissot is proud to launch an emblematic design, with an integrated case and bracelet, from the late 1970s. The range is distinctive for its slenderness, the strength of its design and its timeless style. Going back to its origins in 1978 Tissot was thus creating a quartz model characterized by a slender case, narrow hour markers and a steel bracelet. Its wide horizontal link, typical of the era's designs, was fully integrated with the flat, barrel-shaped case. Today, Tissot is launching the PRX 40 205, a reference which recalls that of the original model. This contemporary interpretation is on-trend and a credit to its predecessor. It retains all the essential characteristics, refines them, affirms them and gives them an improved finish, the quality of which is flawless. This watch is designed for those with a passion for design and an eye for ingenuity.",
+            "product_photos": [
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnZZYXInZYgAHFmgcii5vfanp01WSYsYH5rTmpJ3goz7irxruhObJkwSWiV7RKu2j74_o5GDGgcb7h2_mAys8olOC5BD6F&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfhEfOwCAJzxU6JXEQgXZjM4fvnFhD-cuOGQoon-bgNcmPuunsEHPleDxmPMfSO0PRjx_3ohl_xmQupvYbFnej9RRiR7bATg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVGXh1ryw1jcuFi-w2scasYdkFJpxzh-XRRyyCUFUK1Y9B2jw0wCOGCZhu6zkvMoJsC7FcuA6c_R9cJVLBGymtTab80781&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcs40yYAFQgES8pwowEejQlfvTYyWwrh2MYOAZv67V8PLhECrZf52oAc9Hal2OcVUzkb8cu_fJBE-1H13ieXINfIk7WaTyzg&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRN1YqbVS1_yl7w9nqZ5samDJsuvjGr3kJwEyKDlkA03smYFhzMyjoupe_9BmM9G8S1vjEN8vSsU_1DXyK9hC8Ei4PIVF2l6g&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8OeQhbnpofWgtgZRe_MaLSnSBYEvUZCelx2IkRtjxQChAJrv2EHVeLUZf1zqGkL8IlYToRo9z_zkucLKXDa0m-SlRrBwk&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKN952jocntVwDpm1JMjB2TDMeljUU-Tdy6pTbN_WMfVowTCgFBonnUeoRU2GB1UO5tIuZMo42ehr-y4OjLhQKvaOAwdzl&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1XMBoQstL5ZLA5IcD78XqpFDOoayHnT1JpYqrcr22tsnCgvFFTjY0wgryqKY4Hu0G-Mr0B21RltkJmGbDHUnNCvINZSazuw&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRSw5D-u1h7CI-owAUrubGNzXoPj58EWCt9bDA61wgr0voHZ-O-li6nPOhvwtkvuo9mHo0cIMSbDBM2wJLq8--4wiyGUF06&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Chronograph, Water Resistant, Scratch-resistant",
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog"
+            },
+            "product_rating": 4.9,
+            "product_page_url": "https://google.com/shopping/product/17734230581498786887?gl=us&hl=en&prds=pid%3A6492039160082457046",
+            "product_offers_page_url": "https://google.com/shopping/product/17734230581498786887/offers?gl=us&hl=en&prds=pid%3A6492039160082457046",
+            "product_specs_page_url": "https://google.com/shopping/product/17734230581498786887/specs?gl=us&hl=en&prds=pid%3A6492039160082457046",
+            "product_reviews_page_url": "https://google.com/shopping/product/17734230581498786887/reviews?gl=us&hl=en&prds=pid%3A6492039160082457046",
+            "product_num_reviews": 429,
+            "product_num_offers": "10+",
+            "typical_price_range": [
+                "$275.00",
+                "$395.00"
+            ],
+            "offer": {
+                "store_name": "Tissot Official Store",
+                "store_rating": null,
+                "offer_page_url": "https://www.tissotwatches.com/en-us/t1374101104100.html",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$395.00",
+                "shipping": "Free delivery",
+                "tax": "+$23.70 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": true
+            }
+        },
+        {
+            "product_id": "14978275431174269052",
+            "product_title": "Man Square Watch in Stainless Steel with Black Dial - Tank Quartz Retro Dress Watch, Mens Watch, Cartier and Seiko - Personalise Your Watch",
+            "product_description": "Introducing the \"London\" Square Watch - a fusion of tradition and modernity. This timepiece combines a sleek black dial with a brushed steel case, embodying elegance and style. Powered by a premium Swiss quartz movement, it ensures accuracy with an impressive 11-year battery life. The sapphire glass, 5ATM water resistance, and custom crown with logo enhance its durability and exclusivity.",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjnIzHyxFW6tW8aYxkT56xHaq6OEAy1okOJKQfecvgN8jcHI2UDzsFCGBV52L5oTiDgCCuWH9agXxBONwqOUW6CpwP1UEl&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcStweEd-Uw20vDN9g2M0IG8WJYQCZevsvrc40H5BS610nwZlWHG0xR5RdStA_uKe_bqg009uUoL27ztGhZjAayIO92Da7Pj&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTG2xFAk22o0rfCh3BlpYmJ3G3MWNFpM9fAegTEvxpOwYlvuk-4ECKMUfq6mt5D1PMDgbPMY5KJ5jEfIs5bRZkRs4xj61Xo&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTahb0OcoJcD2xSyLU28DMzRe5Yn8PXEn1GjgiCQ6W-nocSLMvcEbaRbVyFAI-tDqgjcwdHjYn520iEw56LBZcsRjn5XEqILw&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQx7yqw40OZ7PuiOzhTNNuqy9H_E7O9Y5DKrxdeuOC0tSpyXcGOLlSuMMVMNO9Di2u07Gn37OGgeX-YeQbgYDMjx_qBE_q&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Watch Movement": "Quartz",
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant"
+            },
+            "product_rating": 4.9,
+            "product_page_url": "https://google.com/shopping/product/14978275431174269052?gl=us&hl=en&prds=pid%3A14182902557391499903",
+            "product_offers_page_url": "https://google.com/shopping/product/14978275431174269052/offers?gl=us&hl=en&prds=pid%3A14182902557391499903",
+            "product_specs_page_url": "https://google.com/shopping/product/14978275431174269052/specs?gl=us&hl=en&prds=pid%3A14182902557391499903",
+            "product_reviews_page_url": "https://google.com/shopping/product/14978275431174269052/reviews?gl=us&hl=en&prds=pid%3A14182902557391499903",
+            "product_num_reviews": 9,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$385.00",
+                "$385.00"
+            ],
+            "offer": {
+                "store_name": "Etsy",
+                "store_rating": null,
+                "offer_page_url": "https://www.etsy.com/listing/1727975508/man-square-watch-in-stainless-steel-with?gpla=1&gao=1&",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$385.00",
+                "shipping": "Free delivery",
+                "tax": "+$0.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "2391347050704565038",
+            "product_title": "Samsung Galaxy Watch7 40mm in Cream | Smartwatch | Verizon (with 36 Monthly installment Payments + plan)",
+            "product_description": "Your favorite new health and wellness companion is here, meet the Samsung Galaxy Watch7. Get it now at Verizon.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdbtSmaiR8mOpxbuhNiPqXYhmmpQzbkGl6efN3JqOFFSKq17oZppt5CvaKj4RU5cDAHAtS_ttkfKgHyw3ktkB5f4DX98_cqA&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSRHt_FUxQUqgdHyE5brFAD5zPtg5DS-P7tNeCqxl6qdyKwOxjNqyG0YhyzJffkNEpKyNrhyVM_91h3Ey786Y-CnRnMjt6c&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Department": "Unisex",
+                "Connectivity": "Wi-Fi, Cellular",
+                "Assistant Support": "Google Assistant"
+            },
+            "product_rating": 4.1,
+            "product_page_url": "https://google.com/shopping/product/2391347050704565038?gl=us&hl=en&prds=pid%3A3735667485103844546",
+            "product_offers_page_url": "https://google.com/shopping/product/2391347050704565038/offers?gl=us&hl=en&prds=pid%3A3735667485103844546",
+            "product_specs_page_url": "https://google.com/shopping/product/2391347050704565038/specs?gl=us&hl=en&prds=pid%3A3735667485103844546",
+            "product_reviews_page_url": "https://google.com/shopping/product/2391347050704565038/reviews?gl=us&hl=en&prds=pid%3A3735667485103844546",
+            "product_num_reviews": 735,
+            "product_num_offers": null,
+            "typical_price_range": null,
+            "offer": {
+                "store_name": "Verizon",
+                "store_rating": null,
+                "offer_page_url": "https://www.verizon.com/connected-smartwatches/samsung-galaxy-watch7/?sku=sku6014198&edgeTerm=36",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$0.00",
+                "shipping": "Free delivery",
+                "tax": "+$21.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "13969725150907670966",
+            "product_title": "Citizen Ecosphere Men's Chronograph Watch Box Set CA4150-67E",
+            "product_description": "Adventure to new heights with this dynamic Citizen Ecosphere men's watch. Featuring Eco-Drive technology, the watch is powered by any light, so it never needs a battery. The stainless steel case features a tachymeter scale, black dial, and mineral crystal. Other features include a second hand, date window, and chronograph subdials. The stainless steel bracelet secures with a push-button fold-over clasp.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHN-5LCw9yETG_LXrH2ZBoFR-RpXrNLh-PH9Id6Hwd5IcMBD-UyCh9xzRkO1LxPkymWSEIkN8cpGvlZcDtfURZCm0wpL7ajg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdjszSxYsA9cGtVszmnqulxhrZdPnj7QLC3IzxUtjIiKRk9dOxZiEmyXKn-VxzINmr_BBVpHb8yLd0w8pJbhJjEeSXFHFO&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHVO85mMxWNoPlBx3DHlcHcgvCuofDDZsF3ds4QDxCtq0a36NBWOgfs-GzOYQsIo3CQbhVND3nAO3r89uGqgvP9PqfMtPa&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Features": "Chronograph, Water Resistant",
+                "Style": "Wrist",
+                "Display": "Analog"
+            },
+            "product_rating": 4.4,
+            "product_page_url": "https://google.com/shopping/product/13969725150907670966?gl=us&hl=en&prds=pid%3A1764574931016191022",
+            "product_offers_page_url": "https://google.com/shopping/product/13969725150907670966/offers?gl=us&hl=en&prds=pid%3A1764574931016191022",
+            "product_specs_page_url": "https://google.com/shopping/product/13969725150907670966/specs?gl=us&hl=en&prds=pid%3A1764574931016191022",
+            "product_reviews_page_url": "https://google.com/shopping/product/13969725150907670966/reviews?gl=us&hl=en&prds=pid%3A1764574931016191022",
+            "product_num_reviews": 14,
+            "product_num_offers": "3",
+            "typical_price_range": [
+                "$371",
+                "$495"
+            ],
+            "offer": {
+                "store_name": "Kay Jewelers",
+                "store_rating": null,
+                "offer_page_url": "https://www.kay.com/citizen-ecosphere-mens-chronograph-watch-box-set-ca415067e/p/V-282063609?cid=SEO-free-shopping",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$525.00",
+                "shipping": "Free delivery by Tue, Aug 20",
+                "tax": "+$31.50 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
+        },
+        {
+            "product_id": "2725688535187149406",
+            "product_title": "Theorema Watches Oman Dual-Time - GM-108-3 | 46mm Gold Watch with Leather Band | Men's Skeleton Watches - Handmade German Watch",
+            "product_description": "The style on the Made in Germany Dual-Time \"Oman\" Theorema lets your creativity run wild. This timepiece was designed specifically for the sophisticated trendy gentleman. A vibrating look with a distinctive timeless fashion. With its combination of classic lines and modern touches this modern timepiece makes for a special accessory. Tracking is submitted within 24-48 hours after payment.",
+            "product_photos": [
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9v3XL8oCXWy9LQjOICBR4Fl8HX_QfM8Hx-d8T2imdCrELCBForrOTgRTtJYBNOxxb6UjdXiYQ81VVW0pdOHMGZXura-hd&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLryka10GtI4nX1uRfUYEL3uB70Dmalja3W9QMH5GNouPpo_cQggNKFbL5cFpiptIgBSATEAHPHIgfLi0LJ3CdWNBi9FVc&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCxlqPMyUSKj77r82F_ZQ3Z4f3bgZIUGVlHDKm9cEwlsTHxtqEMH6xz88JbKlsgelLJ6-2fFzprqAU0qmUJMEW2WfCPw2z&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_T0S5eLKTj1X6ebIvr829Az44AhgWARp_g8R9eJHCqzcwRQ5mVx-ZL75R2RoFpjp0wD5h7wP0_E1PjI0iMFRZQ-meflP9&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRF2a8ipGyaPX3OQwyZk-V4OGGzuKoTxpwCS9xpg6ujTnAnLqtY4n7bCdtZO2movp9qJ3bWVPHIWkhrCX_ZigDtDHlYufNx&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrf-93qmtRbjVtd7cOxYyi1urkLIFJajP5cqNWL7xYp-0p6ERrYm8mMxAD4P6nubU41GOTnMwrCw26l_Igulk7_2PYNVpejA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTA9EBDY_lZJkUF2b-DiJ5NkHSVLsl0RlIr0U9Yqu0AcVyb-MxYEDsQ4L1BwQ9Zz8Mrzc9HLiW0zipledXmXhsNNJSj3DTUTw&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdWTuUWD4cU9IdAYaWHy4KFBojlDItxwzvoAS9XyTs4Uarng0mQnLpxiVDHBdWKI451jC4sxcuOzCzIQPTc3psbnnhCtBF2Q&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRABV_FO_5rIbspatCLV7eMV4cMYobADU46xelFruMmnylzNIHfMGcnB-mbHoMKhahuZU-AgUjXmgWT18pCYtSCmjJ_xDTR&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/2725688535187149406?gl=us&hl=en&prds=pid%3A6786149707849647941",
+            "product_offers_page_url": "https://google.com/shopping/product/2725688535187149406/offers?gl=us&hl=en&prds=pid%3A6786149707849647941",
+            "product_specs_page_url": "https://google.com/shopping/product/2725688535187149406/specs?gl=us&hl=en&prds=pid%3A6786149707849647941",
+            "product_reviews_page_url": "https://google.com/shopping/product/2725688535187149406/reviews?gl=us&hl=en&prds=pid%3A6786149707849647941",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$981.00",
+                "$1,090.00"
+            ],
+            "offer": {
+                "store_name": "Tufina Watches",
+                "store_rating": null,
+                "offer_page_url": "https://tufinawatches.com/products/oman-gm-108-3?variant=480348012588&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqOMQAJzt5EFv8fxvVstbrTSWakD52ZMcfZ0ES0DvMxkZFcm3kFK2I&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$1,090.00",
+                "shipping": "$14.95 delivery by Fri, Aug 23",
+                "tax": "+$65.40 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "coupon_code": "Memorial10",
+                "coupon_discount_percent": "10",
+                "buy_now_url": "https://tufinawatches.com/cart/480348012588:1?srsltid=AfmBOoqOMQAJzt5EFv8fxvVstbrTSWakD52ZMcfZ0ES0DvMxkZFcm3kFK2I&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "16791469969104063636",
+            "product_title": "OLEVS 2870 Watch for Men Luxury Casual Dress Wrist Watches Multifunction Big Dial Waterproof Luminous Black Dial Silver Trim",
+            "product_description": "Analog Quartz Watches for Men:Use the original imported movement to provide stable and accurate travel time for the watch. Built-in high-quality button battery, the service life is as long as 2-3 years. SPECIFICATIONS Watch MaterialStainless Steel Movement TypeQuartz Dial Diameter42.5 MM Dial Thickness13.5 MM Band Width20 MM Band Length200 MM Watch Weight120 g Waterproof Level3ATM",
+            "product_photos": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuzj3M4nD0qxXWXcnRc5SOkI71ebB0l1WA7lPjWi-YDSD8U7ZKCo2rIJk-NtlpvGTzPDrTKZZYvS0TbE02OIbL8SFizptEsQ&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQxnNRmT9LU2iHP9id9xV9AZZIsVuETCmE2NJGkDW0V8PiLaFix9_elt7LY_hBEo4WkoKGyT-iflVXgKJZK8HIt9T7bc785g&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgl5lwPDtdi47DeMzLyJ_RItEhBnJk4fqNNy4ccijxASdHNAI8HivOfdUZMpEYmhxWtyMk8G0l4aKT5JYzEZjvX8rzI4QHtg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsKZ8r7SLSw1abCTPCz5ZjBtrx9hMrvgZWViP2yOWVYCb0scZKGHshe9CG0dWu1y5bTwhVOxzAw6c-pBQETjsicQUht0mYDQ&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRINjzOlmH8wptYmYkgcVoSJzHfearj3JT7YsOPlE59UJS7T2_czulM3NweK2o4OlSR0n3XWWcuPWE9DHugToESPx07pLNHFg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvjVlkWA4d9iI-XWpOxv6QGbIXGaCEd5n347wzftbLQrMjl35EDEnslC_tRu8zBgpWrkPFNtZahrkCJ18f55rV92SJaY3h&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_DR0-ur4jxyhK3EywKSr18Z0XatEmR7vbvouh1i8SJGNtBbVQgeE3vMUFP-hr0bzGvF9Z6Enjn5KRshF9ztaMoClIZSy0&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjndDmPpArQRlYys27DNFVhSzt0Ne8gboYhgtNKRHcitAcaA8tvdkCZB_quCiC5k46VVeAUExhA16TrdV7XA0zB0768DQZNg&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ45zRXZEXSQHLRUZZGUEFSSHacP1zHKfErJAY37dCbyWaQMEXHssgWhstF3T-nNJ79KkyyqI9uxvZoG2D5lrcs5_Mq0XErrg&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToVL5XK_1_hrNnaUdeR5Rp_lldKuQMUSA-V6RnbzvidubL46KCARqUd0CHetDfGncQolBbhs8ueDVHhYEkROVTrKDSFnnOUA&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQG49fAkRP8FuDtmEWnVItnzDM4q8fYvsBirFrrvjCHkx4_xliN9oNVcWcEAq14LEahwmbtqWs3pE5x-widwuhOUvAdsSJmtg&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQO80vLLp16luGCPs5gv2asERIehFV6AK6JJ7rJZg9kFHpYVosZ4oeD4d3ZlFplFemcKY62pP-s-YlJpAE01aLZH-cKJDJ&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtiN5Q6ip4StxeFR252g1nB7EC2RFb03GYkZU2wyAS0VNj6ZR9duVyqGah0oX5fRufNTajKolOYkpkHoImSe-zKQglBRQL&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTxbt88MOeRUJnDm748oHVYQkMZkkdNsN8Yn0X9K4OYXNMSTCGziNUg460fWjPyMLGSryW5HtKSGll4TjMg6dssEPWMJasfw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFiExO1zoHyqg4Lw6HCzMhDaY2VBIQY6NTTZrxGfOVWI4h4bMSFnnunQpEnxEVli6xJ9zWlemTzkKsYuzojVUNTe4lGqCi4A&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Analog",
+                "Features": "Water Resistant"
+            },
+            "product_rating": 4.7,
+            "product_page_url": "https://google.com/shopping/product/16791469969104063636?gl=us&hl=en&prds=pid%3A5108052422944327790",
+            "product_offers_page_url": "https://google.com/shopping/product/16791469969104063636/offers?gl=us&hl=en&prds=pid%3A5108052422944327790",
+            "product_specs_page_url": "https://google.com/shopping/product/16791469969104063636/specs?gl=us&hl=en&prds=pid%3A5108052422944327790",
+            "product_reviews_page_url": "https://google.com/shopping/product/16791469969104063636/reviews?gl=us&hl=en&prds=pid%3A5108052422944327790",
+            "product_num_reviews": 83,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$43.88",
+                "$48.88"
+            ],
+            "offer": {
+                "store_name": "olevs watch official store",
+                "store_rating": null,
+                "offer_page_url": "https://olevs.com/products/olevs-watch-for-men-luxury-casual-dress-wrist-watches-multifunction-big-dial-waterproof-luminous-g2870?variant=46204151005488&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoquw_n7wlqy4AZJP_E-A-BY8QuzGHr6OJaJDo1lCZLcS0gk9NlyhKo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$43.88",
+                "shipping": "Free delivery by Fri, Aug 23",
+                "tax": "+$2.63 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false,
+                "buy_now_url": "https://olevs.com/cart/46204151005488:1?srsltid=AfmBOoquw_n7wlqy4AZJP_E-A-BY8QuzGHr6OJaJDo1lCZLcS0gk9NlyhKo&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "12686346700485307673",
+            "product_title": "Nexus Pro Smartwatch, Green / Nexus Pro Smartwatch",
+            "product_description": "THE TOUGHEST SMARTWATCH EVER MADE! A durable smartwatch designed to withstand any conditions. Are you tired of watches that break after a few months? Most smartwatches are very overpriced & delicate.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEF0oH5Ju_tWQ2CuIslAGG6pPrkIEL0jwJ54_kPUcVWVm-lUFcfHluCl6CXAZ93f0SaUgfEyIs5lIWuJz1ZCkqyuk5_Oe1RQ&usqp=CAE",
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4sZDXDIc_9n96GgcL_bHXKJmEvNWES3PPkm-5DxooF-KBd_6ITmI0FXD9Svbnknc_2_IyxNWzIegHpz61zdcwLtKvD18BjA&usqp=CAE",
+                "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKCyHByDcdV4fa9eb-q1LEZfsU8dZYqPdOx7VzLiyhHFHMPFnGu_63IIfTvKFnotc_NwQQeSJMuRtl2CslltdUBPaRyNDWyw&usqp=CAE",
+                "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcXY9ME0-Nt0cmqUH4wko0cyq7FJnVm0i-xh2Gj0R2OBt3pWpVWWL2QC5cttn1bM0W-_CrjElKm_OhRsrM1oai1X9ekS22jw&usqp=CAE",
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGZCdAzB2TjaziH98vQ8_VzJyInKgY_OjrCJPBxkpEejd8B5iScA1ZuoojM1LsQLkzimOAGWaZqn8KSmMNpINTuvqAh469&usqp=CAE"
+            ],
+            "product_attributes": {
+                "Style": "Wrist",
+                "Display": "Digital",
+                "Features": "Water Resistant, Scratch-resistant",
+                "Department": "Unisex",
+                "Connectivity": "Bluetooth"
+            },
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/12686346700485307673?gl=us&hl=en&prds=pid%3A3451653238189633228",
+            "product_offers_page_url": "https://google.com/shopping/product/12686346700485307673/offers?gl=us&hl=en&prds=pid%3A3451653238189633228",
+            "product_specs_page_url": "https://google.com/shopping/product/12686346700485307673/specs?gl=us&hl=en&prds=pid%3A3451653238189633228",
+            "product_reviews_page_url": "https://google.com/shopping/product/12686346700485307673/reviews?gl=us&hl=en&prds=pid%3A3451653238189633228",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$89.00",
+                "$89.00"
+            ],
+            "offer": {
+                "store_name": "North511",
+                "store_rating": null,
+                "offer_page_url": "https://north511.com/products/nexus-pro-smartwatch?currency=USD&variant=44873961144586&utm_source=google&utm_medium=cpc&utm_campaign=Google+Shopping&stkn=b0c999217b77&srsltid=AfmBOoqMdq2xyvMs1oX0P7W0qqSYNX8JFRByQFRCbd3JVbNBWLHcVVxtIAg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$89.00",
+                "shipping": "Free delivery by Fri, Aug 30",
+                "tax": "+$0.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": true,
+                "buy_now_url": "https://north511.com/cart/44873961144586:1?srsltid=AfmBOoqMdq2xyvMs1oX0P7W0qqSYNX8JFRByQFRCbd3JVbNBWLHcVVxtIAg&com_cvv=02097201fee3ff3387b656d0f50b02952b90397e363f8d1fb7b8d0955d8bed51"
+            }
+        },
+        {
+            "product_id": "11918570611864928815",
+            "product_title": "Jacob & Co. Bugatti Chiron Tourbillon (Anthracite Titanium)",
+            "product_description": "The Bugatti Chiron Tourbillon showcases Jacob & Co.'s extreme luxury, mechanical performance and craft with an unprecedented high complication movement.",
+            "product_photos": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQoHk1gwBuMDw6VP8GgjeUQ0gltga00DhrsrSz7nJdON9SFAjUQaXrCJnCDTlRu9HXXH7S4k2mitmrVZfd9JDZ2DCnRu7gl&usqp=CAE"
+            ],
+            "product_attributes": null,
+            "product_rating": null,
+            "product_page_url": "https://google.com/shopping/product/11918570611864928815?gl=us&hl=en&prds=pid%3A18205289590841434779",
+            "product_offers_page_url": "https://google.com/shopping/product/11918570611864928815/offers?gl=us&hl=en&prds=pid%3A18205289590841434779",
+            "product_specs_page_url": "https://google.com/shopping/product/11918570611864928815/specs?gl=us&hl=en&prds=pid%3A18205289590841434779",
+            "product_reviews_page_url": "https://google.com/shopping/product/11918570611864928815/reviews?gl=us&hl=en&prds=pid%3A18205289590841434779",
+            "product_num_reviews": 0,
+            "product_num_offers": null,
+            "typical_price_range": [
+                "$310,000.00",
+                "$310,000.00"
+            ],
+            "offer": {
+                "store_name": "Jacob & Co.",
+                "store_rating": null,
+                "offer_page_url": "https://jacobandco.com/timepieces/bugatti-chiron-tourbillon/anthracite-titanium?srsltid=AfmBOopf2AcfONHoK3YHnCUvRil22vJPWCF-ftR77Lmbljio4YFUJ__HnFw",
+                "store_review_count": 0,
+                "store_reviews_page_url": null,
+                "price": "$310,000.00",
+                "shipping": "Free delivery by Wed, Aug 21",
+                "tax": "+$18,600.00 est. tax",
+                "on_sale": false,
+                "original_price": null,
+                "product_condition": "NEW",
+                "top_quality_store": false
+            }
         }
-      ],
-      "reviews_per_rating": {
-        "1": 158,
-        "2": 33,
-        "3": 76,
-        "4": 217,
-        "5": 2739
-      },
-      "reviews_insights": {
-        "Attractive": {
-          "Attractive": 484,
-          "Unattractive": 9
-        },
-        "Comfortable": {
-          "Comfortable": 187,
-          "Uncomfortable": 6
-        },
-        "Durable": {
-          "Durable": 152,
-          "Lacks durability": 12
-        },
-        "Well made": {
-          "Well made": 22,
-          "Poorly made": 3
-        },
-        "Weight": {
-          "Lightweight": 4,
-          "Heavy": 1
-        },
-        "Support": {
-          "Supportive": 4,
-          "Unsupportive": 0
-        },
-        "Size": {
-          "Compact": 0,
-          "Bulky": 3
-        },
-        "Noise level": {
-          "Quiet": 1,
-          "Noisy": 1
-        },
-        "Ease of use": {
-          "Easy to use": 1,
-          "Difficult to use": 0
-        },
-        "Connects reliably": {
-          "Connects reliably": 1,
-          "Poor connection": 0
-        },
-        "Staying in place": {
-          "Stays in place": 0,
-          "Doesn't stay in place": 1
-        },
-        "Weather resistance": {
-          "Good weather resistance": 1,
-          "Poor weather resistance": 0
-        },
-        "Water resistance": {
-          "Good water resistance": 1,
-          "Poor water resistance": 0
-        },
-        "Accurate tracking": {
-          "Accurate tracking": 1,
-          "Inaccurate tracking": 0
-        }
-      },
-      "product_highlights": [],
-      "product_details": {
-        "Department": "Men's",
-        "Size": "11",
-        "Material": "Genuine Leather, Genuine Suede, Nylon, Rubber",
-        "Color": "White",
-        "Closure Style": "Lace-up",
-        "Features": "High-top",
-        "Style": "Casual"
-      },
-      "product_specs": {
-        "Colorway": "White/University Blue/Black",
-        "Style": "Sports/Trendy",
-        "Applicable Season": "All Season"
-      }
-    }
-  }
+    ]
+}
