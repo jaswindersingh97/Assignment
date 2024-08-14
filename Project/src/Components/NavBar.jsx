@@ -1,8 +1,15 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Style from './NavBar.module.css';
 import logo from './../assets/Logo.png';
 import cart from './../assets/cart icon.png'
 function NavBar() {
+  const [cartProducts, setCartProducts] = useState([]);
+
+  useEffect(() => {
+    const storedProducts = JSON.parse(localStorage.getItem("cartProducts")) || [];
+    setCartProducts(storedProducts);
+  }, []); // Empty array means this runs only once on mount
+
   return (
     <div className={Style.container}>
     <img src={logo} alt='icon'/>
@@ -16,6 +23,7 @@ function NavBar() {
         filer
     </div> */}
     <div className={Style.cart}>
+    <span>{cartProducts.length}</span>
     <img src={cart} alt='Cart icon'/>
         
     </div>

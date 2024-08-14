@@ -1,17 +1,36 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import style from './CartPageGrid.module.css';
+import RemoveSure from './RemoveSure';
 
 function CartPageGrid() {
   const [cartProducts, setCartProducts] = useState([]);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [productToRemove, setProductToRemove] = useState(null);
 
   const loadProducts = () => {
     const storedProducts = JSON.parse(localStorage.getItem("cartProducts")) || [];
-    setCartProducts(storedProducts); // Update the state with the loaded products
+    setCartProducts(storedProducts);
   };
 
   useEffect(() => {
-    loadProducts(); // Load products when the component mounts
+    loadProducts(); 
   }, []);
+
+  const handleRemoveClick = (index) => {
+    setProductToRemove(index); // Set the product to be removed
+    setIsModalOpen(true); // Open the modal
+  };
+
+  const confirmRemoval = () => {
+    const updatedProducts = cartProducts.filter((_, index) => index !== productToRemove);
+    setCartProducts(updatedProducts);
+    localStorage.setItem("cartProducts", JSON.stringify(updatedProducts));
+    setIsModalOpen(false); // Close the modal
+  };
+
+  const cancelRemoval = () => {
+    setIsModalOpen(false); // Close the modal without removing
+  };
 
   return (
     <div className={style.container}>
@@ -23,15 +42,21 @@ function CartPageGrid() {
               <p>{product.product_title}</p>
               <h2>{product.offer.price}</h2>
               <div className={style.buttons}>
-              <button className={style.buynow} >Buy now</button>
-              <button className={style.remove} >Remove X</button>
+                <button className={style.buynow}>Buy now</button>
+                <button className={style.remove} onClick={() => handleRemoveClick(index)}>Remove X</button>
+              </div>
             </div>
-            </div>
-            
           </div>
         ))
       ) : (
         <p>Your cart is empty</p>
+      )}
+
+      {isModalOpen && (
+        <RemoveSure
+          onConfirm={confirmRemoval}
+          onCancel={cancelRemoval}
+        />
       )}
     </div>
   );
