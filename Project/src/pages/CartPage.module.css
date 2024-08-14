@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+    gap: 30px;
+}
+.left{
+    background-color: orange;
+    width: 70%;
+}
+.right{
+    flex: 1;
+    background-color: aqua;
+}

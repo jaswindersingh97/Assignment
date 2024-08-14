@@ -5,14 +5,16 @@ import ProductGrid from './../Components/ProductGrid';
 import SideNav from '../Components/SideNav';
 function HomePage() {
   return (
-    <div> 
+    <> 
     <div className={styles.container}>
-	<div className={styles.header}><NavBar/></div>
-	<div className={styles.sidenav}><SideNav/></div>
-	<div className={styles.body}><ProductGrid/></div>
-	<div className={styles.footer}>footer</div>
+	    <div className={styles.header}><NavBar/></div>
+      <div className={styles.body}>
+	      <div className={styles.left}><SideNav/></div>
+	      <div className={styles.right}><ProductGrid/></div>
+      </div>
+	    <div className={styles.footer}>footer</div>
 </div>
-    </div>
+    </>
   )
 }
 

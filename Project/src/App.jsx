@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
-import HomePage from './pages/HomePage';
-
+// import HomePage from './pages/HomePage';
+import CartPage from './pages/CartPage';
 function App() {
   return (
 <div className='container'>
-  <HomePage/>
+  {/* <HomePage/> */}
+  <CartPage/>
 </div>
 
   )

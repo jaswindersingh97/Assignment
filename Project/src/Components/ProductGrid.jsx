@@ -25,7 +25,7 @@ function ProductGrid() {
 
   return (
     <div className={Styles.container}>
-      {products.map((product, index) => (
+      {products.slice(0,12).map((product, index) => (
         <ProductCard key={index} product={product} />
       ))}
     </div>
