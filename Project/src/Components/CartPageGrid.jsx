@@ -1,10 +1,21 @@
-import React, { useState,useEffect } from 'react';
+import React, { useState } from 'react';
 import style from './CartPageGrid.module.css';
 import RemoveSure from './RemoveSure';
 
-function CartPageGrid({cartProducts,setCartProducts}) {
+function CartPageGrid({ cartProducts, setCartProducts }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [productToRemove, setProductToRemove] = useState(null);
+
+  const countbutton = (index, operation) => {
+    const updatedProducts = cartProducts.map((product, i) => {
+      if (i === index) {
+        const updatedCount = operation ? product.count + 1 : product.count - 1;
+        return { ...product, count: updatedCount > 1 ? updatedCount : 1 }; // Ensure count doesn't go below 1
+      }
+      return product;
+    });
+    setCartProducts(updatedProducts);
+  };
 
   const handleRemoveClick = (index) => {
     setProductToRemove(index); // Set the product to be removed
@@ -14,7 +25,6 @@ function CartPageGrid({cartProducts,setCartProducts}) {
   const confirmRemoval = () => {
     const updatedProducts = cartProducts.filter((_, index) => index !== productToRemove);
     setCartProducts(updatedProducts);
-    localStorage.setItem("cartProducts", JSON.stringify(updatedProducts));
     setIsModalOpen(false); // Close the modal
   };
 
@@ -32,8 +42,12 @@ function CartPageGrid({cartProducts,setCartProducts}) {
               <p>{product.product_title}</p>
               <h2>{product.offer.price}</h2>
               <div className={style.buttons}>
-                <button className={style.buynow}>Buy now</button>
-                <button className={style.remove} onClick={() => handleRemoveClick(index)}>Remove X</button>
+                <div className={style.productcount}>
+                  <button className={style.red} onClick={() => countbutton(index, false)}>-</button>
+                  <span>{product.count}</span>
+                  <button className={style.green} onClick={() => countbutton(index, true)}>+</button>
+                </div>
+                <button className={style.red} onClick={() => handleRemoveClick(index)}>Remove X</button>
               </div>
             </div>
           </div>

@@ -34,10 +34,10 @@
     display: flex;
     gap: 80px;
 }
-.buynow{
+.green{
     background-color: green;
 }
-.remove{
+.red{
     background-color: red;
 }
 .buttons button{
@@ -52,4 +52,15 @@
 }
 .buttons button:hover{
     opacity: 0.8;
+}
+.productcount{
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.productcount button{
+    font-size: larger;
+    width: 30px;
+    color: white;
 }
