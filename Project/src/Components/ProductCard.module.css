@@ -53,3 +53,11 @@
 .down img{
     width: 30px;
 }
+.AddedPopup{
+    
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}

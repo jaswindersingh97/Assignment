@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     gap:10px;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 .container img{
     width: 200px;
@@ -34,9 +34,21 @@
     background-color: rgb(179, 178, 178);
     cursor: pointer;
 }
+.cart{
+    display: block;
+}
 .cart img{
     width: 50px;
 }
 .cart img:hover{
     cursor: pointer;
+}
+.cart span{
+    border-radius: 20px;
+    background-color: rgba(0, 170, 255, 0.549);
+    position: relative;
+    left: 40px;
+    bottom: 35px;
+    /* right: 408px;  */
+
 }
