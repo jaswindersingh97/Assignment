@@ -3,6 +3,7 @@ import CartPageGrid from '../Components/Cartpagegrid'
 import NavBar from './../Components/NavBar'
 import styles from './CartPage.module.css'
 import { AppContext } from '../context/AppContext'
+import CartSummary from '../Components/CartSummary'
 function CartPage() {
   const {cartProducts, setCartProducts} = useContext(AppContext)
 
@@ -25,7 +26,7 @@ function CartPage() {
         <CartPageGrid cartProducts={cartProducts} setCartProducts={setCartProducts}/>
       </div>
       <div className={styles.right}>
-        Right
+        <CartSummary/>
       </div>
     </div>
     </div>
