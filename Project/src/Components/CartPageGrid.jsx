@@ -2,19 +2,9 @@ import React, { useState,useEffect } from 'react';
 import style from './CartPageGrid.module.css';
 import RemoveSure from './RemoveSure';
 
-function CartPageGrid() {
-  const [cartProducts, setCartProducts] = useState([]);
+function CartPageGrid({cartProducts,setCartProducts}) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [productToRemove, setProductToRemove] = useState(null);
-
-  const loadProducts = () => {
-    const storedProducts = JSON.parse(localStorage.getItem("cartProducts")) || [];
-    setCartProducts(storedProducts);
-  };
-
-  useEffect(() => {
-    loadProducts(); 
-  }, []);
 
   const handleRemoveClick = (index) => {
     setProductToRemove(index); // Set the product to be removed
