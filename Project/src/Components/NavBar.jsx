@@ -2,7 +2,10 @@ import React, { useEffect, useState } from 'react';
 import Style from './NavBar.module.css';
 import logo from './../assets/Logo.png';
 import cart from './../assets/cart icon.png'
-function NavBar({cartProducts}) {
+import { useContext } from 'react';
+import { AppContext } from '../context/AppContext';
+function NavBar() {
+  const {cartProducts}=useContext(AppContext);
   return (
     <div className={Style.container}>
     <img src={logo} alt='icon'/>
