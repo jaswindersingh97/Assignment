@@ -11,11 +11,14 @@ export const AppProvider=({children}) => {
         const price = parseFloat(curval.offer.price.replace('$', ''));
         return acc + (price * curval.count);
       }, 0);
+    const [searchQuery,setSearchQuery]=useState("Nike shoes");
     return(
         <AppContext.Provider value={{
             cartProducts,
             setCartProducts,
-            totalPrice
+            totalPrice,
+            searchQuery,
+            setSearchQuery
             }}>
                 {children}
             </AppContext.Provider>

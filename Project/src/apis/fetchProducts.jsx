@@ -1,9 +1,12 @@
 import axios from 'axios';
+// import { useContext } from 'react';
+// import { AppContext } from '../context/AppContext';
 
 const BASE_URL = 'https://Real-Time-Product-Search.proxy-production.allthingsdev.co/v1/search';
 const API_KEY = 'IG-PtsIf6ojEl0BXvth0aR9kve85K6lJ0oFDyi3ZM3EDMdhs0v';
-
-const fetchProducts = async () => {
+const fetchProducts = async (searchQuery) => {
+    // const {searchQuery}=useContext(AppContext);
+    console.log(searchQuery)
     try {
         const { data } = await axios.get(BASE_URL, {
             headers: { 
@@ -12,7 +15,7 @@ const fetchProducts = async () => {
                 'x-apihub-endpoint': '48cf011e-36c4-45a7-84a6-656a338a49ec'
             },
             params: {
-                q: 'Nike shoes',
+                q: searchQuery,
                 country: 'us',
                 // language: 'en',
                 limit: 16,
