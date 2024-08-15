@@ -10,11 +10,11 @@ function CartSummary() {
   const buttonClk = ()=>{
     setViewTable(!viewTable);
   }
-  // const [Discount,setDiscount]=useState(0);
   // const discount_coupon =[{name:"free10percent",per:10,amt:0},{name:"100dollaroff",per:0,amt:100}]
   const fixed_discount=totalPrice>100?100:0;
   const percent_discount=10;
   const toBePaid=(totalPrice*(100-percent_discount)/100)-fixed_discount;
+  const [orderState,setOrderState]=useState(false);
   return (
     <div className={style.container}>
       <h1>PRICE DETAILS</h1>
@@ -39,7 +39,8 @@ function CartSummary() {
       </div>
       </div>
       <div className={style.button}>
-        <button>Buy Now</button>
+      {orderState?<div className={style.success}>Ordered Successfully</div>:<button onClick={()=>setOrderState(!orderState)}>Buy Now</button>}
+        
       </div>
     </div>
   );

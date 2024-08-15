@@ -35,7 +35,13 @@
     background-color: green;
     border: 0px;
     color: white;
+    cursor: pointer;
   }
   button:active{
     opacity: 0.8;
+  }
+  
+  .success{
+    font-size: xx-large;
+    font-weight: bolder;
   }
