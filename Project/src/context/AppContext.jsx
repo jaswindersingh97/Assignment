@@ -7,10 +7,15 @@ export const AppProvider=({children}) => {
     useEffect(()=>{
         localStorage.setItem("cartProducts",JSON.stringify(cartProducts));
     },[cartProducts])
+    let totalPrice = cartProducts.reduce((acc, curval) => {
+        const price = parseFloat(curval.offer.price.replace('$', ''));
+        return acc + (price * curval.count);
+      }, 0);
     return(
         <AppContext.Provider value={{
             cartProducts,
-            setCartProducts
+            setCartProducts,
+            totalPrice
             }}>
                 {children}
             </AppContext.Provider>

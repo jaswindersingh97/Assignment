@@ -34,6 +34,9 @@ function CartPageGrid({ cartProducts, setCartProducts }) {
 
   return (
     <div className={style.container}>
+    <div className={style.heading}>
+      <h1>Selected Items:</h1>
+    </div>
       {cartProducts.length > 0 ? (
         cartProducts.map((product, index) => (
           <div key={index} className={style.productCard}>
