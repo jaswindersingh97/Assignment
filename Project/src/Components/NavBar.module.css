@@ -40,9 +40,7 @@
 .cart img{
     width: 50px;
 }
-.cart img:hover{
-    cursor: pointer;
-}
+
 .cart span{
     border-radius: 20px;
     background-color: rgba(0, 170, 255, 0.549);
@@ -50,5 +48,5 @@
     left: 40px;
     bottom: 35px;
     /* right: 408px;  */
-
 }
+img{cursor: pointer;}

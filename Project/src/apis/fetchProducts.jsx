@@ -15,7 +15,7 @@ const fetchProducts = async () => {
                 q: 'Nike shoes',
                 country: 'us',
                 // language: 'en',
-                limit: 9,
+                limit: 16,
                 // sort_by: 'BEST_MATCH',
                 // product_condition: 'ANY',
                 // min_rating: 'ANY',

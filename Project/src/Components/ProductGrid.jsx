@@ -5,19 +5,21 @@ import fetchProducts from './../apis/fetchProducts';
 
 function ProductGrid() {
   const [products, setProducts] = useState([]);
+  const [loading, setLoading] = useState(true); 
 
   const getProducts = useCallback(async () => {
     try {
+      setLoading(true); 
       const response = await fetchProducts();
-      console.log(response); // Log the entire response to understand its structure
-      
-      // Adjust this based on the actual response structure
-      const productArray = response.data || []; // Assuming 'data' contains the array of products
-      setProducts(productArray); // Set the products state with the array
+      console.log(response);
+      const productArray = response.data || [];
+      setProducts(productArray); 
     } catch (error) {
       console.error('Failed to fetch products:', error);
+    } finally {
+      setLoading(false);
     }
-  }, []); // Dependency array is empty, so the function is memoized and stable
+  }, []);
 
   useEffect(() => {
     getProducts();
@@ -25,9 +27,13 @@ function ProductGrid() {
 
   return (
     <div className={Styles.container}>
-      {products.slice(0,12).map((product, index) => (
-        <ProductCard key={index} product={product} />
-      ))}
+      {loading ? (
+        <div className={Styles.loading}>Loading...</div> 
+      ) : (
+        products.slice(0, 16).map((product, index) => (
+          <ProductCard key={index} product={product} />
+        ))
+      )}
     </div>
   );
 }
