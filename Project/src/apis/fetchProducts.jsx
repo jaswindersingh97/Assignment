@@ -4,14 +4,13 @@ import axios from 'axios';
 
 const BASE_URL = 'https://Real-Time-Product-Search.proxy-production.allthingsdev.co/v1/search';
 const API_KEY = import.meta.env.VITE_API_KEY;
-console.log(API_KEY);
 const fetchProducts = async (searchQuery) => {
     // const {searchQuery}=useContext(AppContext);
-    console.log(searchQuery)
+    // console.log(searchQuery,API_KEY)
     try {
         const { data } = await axios.get(BASE_URL, {
             headers: { 
-                'x-apihub-key': API_KEY, 
+                'x-apihub-key': API_KEY , 
                 'x-apihub-host': 'Real-Time-Product-Search.allthingsdev.co', 
                 'x-apihub-endpoint': '48cf011e-36c4-45a7-84a6-656a338a49ec'
             },
