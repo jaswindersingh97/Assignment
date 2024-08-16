@@ -1,5 +1,5 @@
 import React ,{useState,useEffect,useContext} from 'react'
-import CartPageGrid from '../Components/Cartpagegrid'
+import CartPageGrid from './../Components/CartPageGrid'
 import NavBar from './../Components/NavBar'
 import styles from './CartPage.module.css'
 import { AppContext } from '../context/AppContext'
