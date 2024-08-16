@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/jaswindersingh97/Assignment/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">I have tried to complete the requirements as per given instructions .<br/> Navigate to path to view the sample video:<br/> https://github.com/jaswindersingh97/Assignment/blob/main/Project/src/Video/SampleVideo.mp4 <br/> <br/> <span style={color:"red"}> Note:</span> Please don't reload the home page carelessly multiple times as the Api is limited and might get exhausted before the evaluation.</p>
+<p id="description">I have tried to complete the requirements as per given instructions .<br/> Navigate to path to view the sample video:<br/> https://github.com/jaswindersingh97/Assignment/blob/main/Project/src/Video/SampleVideo.mp4 <br/> <br/> <br/> Note: Please don't reload the home page carelessly multiple times as the Api is limited and might get exhausted before the evaluation.</p>
 
 <h2>🚀 Demo</h2>
 
