@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Style from './NavBar.module.css';
-import logo from './../assets/Logo.png';
+import logo from './../assets/logonew.jpg';
 import cart from './../assets/cart icon.png';
 import { useContext } from 'react';
 import { AppContext } from '../context/AppContext';

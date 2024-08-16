@@ -32,3 +32,8 @@ Done are commented.
                     <!-- *Percentage discounts (e.g., "10% off") -->
                 <!-- -Total price (including discounts): Display the final price the user needs to pay. -->
         <!-- iii.Checkout button (optional): This can redirect to a simulated checkout page or provide a message indicating successful cart addition. -->
+4   Need to use the jsondata instead of api.<!--Would try on different branch -->
+5   Need to create viewProductPage.<!--Would try on different branch -->
+6   If possible implement the search functionality. <!--Would try on different branch -->
+<!-- 7   Need to update the Icon . -->
+<!-- 8   Need to use Api key from env. -->

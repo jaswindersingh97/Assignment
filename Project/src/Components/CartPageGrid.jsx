@@ -1,10 +1,18 @@
 import React, { useState } from 'react';
 import style from './CartPageGrid.module.css';
 import RemoveSure from './RemoveSure';
+import ProductPage from '../pages/ProductPage';
 
 function CartPageGrid({ cartProducts, setCartProducts }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [productToRemove, setProductToRemove] = useState(null);
+  const [productScreen, setProductScreen] = useState(false);
+  const [item, setItem] = useState({});
+
+  const productPageView = (product) => {
+    setItem(product);
+    setProductScreen(!productScreen);
+  };
 
   const countbutton = (index, operation) => {
     const updatedProducts = cartProducts.map((product, i) => {
@@ -34,15 +42,17 @@ function CartPageGrid({ cartProducts, setCartProducts }) {
 
   return (
     <div className={style.container}>
-    <div className={style.heading}>
-      <h1>Selected Items:</h1>
-    </div>
+      <div className={style.heading}>
+        <h1>Selected Items:</h1>
+      </div>
       {cartProducts.length > 0 ? (
         cartProducts.map((product, index) => (
           <div key={index} className={style.productCard}>
             <img src={product.product_photos[0]} alt="Product" />
             <div className={style.productDetails}>
-              <p>{product.product_title}</p>
+              <p 
+              // onClick={() => productPageView(product)}
+              >{product.product_title}</p>
               <h2>{product.offer.price}</h2>
               <div className={style.buttons}>
                 <div className={style.productcount}>
@@ -65,6 +75,7 @@ function CartPageGrid({ cartProducts, setCartProducts }) {
           onCancel={cancelRemoval}
         />
       )}
+      {productScreen && <ProductPage Product={item} />}
     </div>
   );
 }

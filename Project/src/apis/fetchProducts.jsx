@@ -3,7 +3,8 @@ import axios from 'axios';
 // import { AppContext } from '../context/AppContext';
 
 const BASE_URL = 'https://Real-Time-Product-Search.proxy-production.allthingsdev.co/v1/search';
-const API_KEY = 'IG-PtsIf6ojEl0BXvth0aR9kve85K6lJ0oFDyi3ZM3EDMdhs0v';
+const API_KEY = import.meta.env.VITE_API_KEY;
+console.log(API_KEY);
 const fetchProducts = async (searchQuery) => {
     // const {searchQuery}=useContext(AppContext);
     console.log(searchQuery)
